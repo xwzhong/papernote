@@ -1,4 +1,4 @@
-### Empirical Evaluation of Gated Recurrent Neural Networks on Sequence
+### Recurrent Neural Network Regularization
 #### note:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文章提出了使用RNN时进行正则化的dropout改进方法。文章中就为什么这个简单的改进可行说得非常好（第三部分结尾），简而言之：传统的dropout对相邻cell中的连接段（connection）也进行了dropout，从而导致“记忆”的丢失，而作者提出的改进只对cell的输入和输出进行dropout，因此既达到了正则化的要求，又不至于丢失long range学到的内容。
