@@ -1,5 +1,5 @@
 # chatbot
-* _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arXiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/other/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
+* _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arXiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
 
 # other
