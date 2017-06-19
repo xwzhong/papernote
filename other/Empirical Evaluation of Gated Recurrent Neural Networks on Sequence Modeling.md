@@ -10,4 +10,4 @@
 1. 对比RNN，GRU和LSTM三者之间学习能力、时间效率时，考虑了参数数目的影响，思考比较严谨，这点不错;
 2. 在非常细致的问题优化中再考虑RNN变体的选择，因为就算RNN和LSTM对同一个问题有不同的结果，但是在参数数目相近的情况，其结果差距一般不会太大。
 
-#### code: [github](https://github.com/jych/librnn)
+#### [code](https://github.com/jych/librnn)
