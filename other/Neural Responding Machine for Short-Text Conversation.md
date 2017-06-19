@@ -13,10 +13,6 @@
     * 测试集数据量少，test post只有110；
     * 在fine tuning所用数据集中，post:response比值约等于1:1，是不是应该和原training data中的比例相近？
 
-#### code: 
-* [python](https://github.com/tensorflow/models/blob/master/tutorials/rnn/ptb/ptb_word_lm.py)
-* [lua](https://github.com/wojzaremba/lstm)
-
 #### [data](http://61.93.89.94/Noah_NRM_Data/):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;实验所用的数据为sina微博，数据质量一般，毕竟是微博评论
