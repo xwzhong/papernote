@@ -1,4 +1,5 @@
 # chatbot
+* _2017.04_ Emotional Chatting Machine：Emotional Conversation Generation with Internal and External Memory \[[arXiv](https://arxiv.org/abs/1704.01074)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Emotional%20Chatting%20Machine%EF%BC%9AEmotional%20Conversation%20Generation%20with%20Internal%20and%20External%20Memory.md)\]
 * _2016.12_ Sequential Match Network-A New Architecture for Multi-trun Response Selection in Retrieval-based Chatbots \[[arXiv](https://arxiv.org/abs/1612.01627)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequential%20Match%20Network-A%20New%20Architecture%20for%20Multi-trun%20Response%20Selection%20in%20Retrieval-based%20Chatbots.md)\]
 * _2016.07_ Sequence to Backward and Forward Sequences A Content-Introducing Approach to Generative Short-Text Conversation \[[arXiv](https://arxiv.org/abs/1607.00970)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequence%20to%20Backward%20and%20Forward%20Sequences%20A%20Content-Introducing%20Approach%20to%20Generative%20Short-Text%20Conversation.md)\]
 * _2016.06_ Topic Aware Neural Response Generation \[[arXiv](https://arxiv.org/abs/1606.08340)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Topic%20Aware%20Neural%20Response%20Generation.md)\]
@@ -7,6 +8,7 @@
 
 # translation
 * _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arXiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
+* _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arXiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
 
 # reading comprehension
 * _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arXiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
