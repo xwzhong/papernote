@@ -11,3 +11,6 @@
 &emsp;&emsp;在不考虑行文的情况下，有两点值得借鉴：
 1. paper将对话的topic信息joint到decoder部分的隐层；
 2. 在decoder output部分，使用特定的机制偏向了生成的范围。
+
+#### more reading:
+&emsp;&emsp;<https://zhuanlan.zhihu.com/p/27218817>
