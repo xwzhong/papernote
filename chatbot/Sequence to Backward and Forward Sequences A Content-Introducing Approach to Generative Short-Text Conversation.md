@@ -12,3 +12,5 @@
 3. 就此模型而言，效果的好坏主要应该在于keywords词表以及test/eval部分keyword的选取；
 4. 在train部分，不知道在选取word进行split部分，使用test/eval一样的选取方式效果会不会更好？
   
+#### more reading:
+<https://zhuanlan.zhihu.com/p/27275391>
