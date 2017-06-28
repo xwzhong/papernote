@@ -5,6 +5,7 @@
 * _2016.07_ Sequence to Backward and Forward Sequences A Content-Introducing Approach to Generative Short-Text Conversation \[[arXiv](https://arxiv.org/abs/1607.00970)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequence%20to%20Backward%20and%20Forward%20Sequences%20A%20Content-Introducing%20Approach%20to%20Generative%20Short-Text%20Conversation.md)\]
 * _2016.06_ Topic Aware Neural Response Generation \[[arXiv](https://arxiv.org/abs/1606.08340)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Topic%20Aware%20Neural%20Response%20Generation.md)\]
 * _2016.06_ Deep Reinforcement Learning for Dialogue Generation \[[arXiv](https://arxiv.org/abs/1606.01541)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Deep%20Reinforcement%20Learning%20for%20Dialogue%20Generation.md)\]
+* _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arXiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arXiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
 # translation
