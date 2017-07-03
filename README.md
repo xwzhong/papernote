@@ -14,6 +14,7 @@
 
 
 # translation
+* _2014.12_ On Using Very Large Target Vocabulary for Neural Machine Translation \[[arXiv](https://arxiv.org/abs/1412.2007v2)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md)\]
 * _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arXiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
 * _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arXiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
 
