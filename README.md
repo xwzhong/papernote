@@ -12,7 +12,6 @@
 * _2016.06_ Deep Reinforcement Learning for Dialogue Generation \[[arXiv](https://arxiv.org/abs/1606.01541)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Deep%20Reinforcement%20Learning%20for%20Dialogue%20Generation.md)\]
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arXiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
-
 # translation
 * _2014.12_ On Using Very Large Target Vocabulary for Neural Machine Translation \[[arXiv](https://arxiv.org/abs/1412.2007v2)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md)\]
 * _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arXiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
@@ -23,6 +22,9 @@
 
 # reasoning
 * _2017.06_ A simple neural network module for relational reasoning \[[arXiv](https://arxiv.org/abs/1706.01427)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reasoning/A%20simple%20neural%20network%20module%20for%20relational%20reasoning.md)\]
+
+# regularization
+* _2014.12_ Explaining and Harnessing Adversarial Examples \[[arXiv](https://arxiv.org/abs/1412.6572v3)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Explaining%20and%20Harnessing%20Adversarial%20Examples.md)\]
 
 # rnn
 * _2017.04_ Learning to Generate Reviews and Discovering Sentiment \[[arXiv](http://de.arxiv.org/pdf/1704.01444)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Learning%20to%20Generate%20Reviews%20and%20Discovering%20Sentiment.md)\]
