@@ -2,6 +2,7 @@
 ### retrieval model:
 * _2017.05_ IRGAN：A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models \[[arXiv](https://arxiv.org/abs/1705.10513)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/IRGAN%EF%BC%9AA%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieval%20Models.md)\]
 * _2016.12_ Sequential Match Network-A New Architecture for Multi-trun Response Selection in Retrieval-based Chatbots \[[arXiv](https://arxiv.org/abs/1612.01627)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequential%20Match%20Network-A%20New%20Architecture%20for%20Multi-trun%20Response%20Selection%20in%20Retrieval-based%20Chatbots.md)\]
+* _2016.02_ Attentive Pooling Networks \[[arXiv](https://arxiv.org/abs/1602.03609v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Attentive%20Pooling%20Networks.md)\]
 * _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arXiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
 
 ### generative model:
@@ -39,4 +40,3 @@
 * _2017.04_ Learning to Skim Text \[[arXiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/seq2seq/Learning%20to%20Skim%20Text.md)\]
 * _2015.06_ Skip-Thought Vectors \[[arXiv](https://arxiv.org/abs/1506.06726)\] \[[note](https://github.com/xwzhong/papernote/blob/master/seq2seq/Skip-Thought%20Vectors.md)\]
 * _2014.12_ Grammar as a Foreign Language \[[arXiv](https://arxiv.org/abs/1412.7449)\] \[[note](https://github.com/xwzhong/papernote/blob/master/seq2seq/Grammar%20as%20a%20Foreign%20Language.md)\]
-
