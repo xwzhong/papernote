@@ -20,7 +20,7 @@
 * _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arXiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
 
 ## sentence embedding
-* _2016.xx_ A Simple But Tough to Beat Baseline for Sentence Embeddings \[[openreview](https://openreview.net/pdf?id=SyK00v5xx)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
+* _2016.xx_ A Simple But Tough to Beat Baseline for Sentence Embeddings \[[openreview](https://openreview.net/pdf?id=SyK00v5xx)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/A%20Simple%20But%20Tough%20to%20Beat%20Baseline%20for%20Sentence%20Embeddings.md)\]
 
 ## reading comprehension
 * _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arXiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
