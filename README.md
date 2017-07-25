@@ -1,7 +1,7 @@
 ## [chatbot](https://github.com/xwzhong/papernote/tree/master/chatbot)
 ### retrieval model:
 * _2017.05_ IRGAN \[[arXiv](https://arxiv.org/abs/1705.10513)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/IRGAN%EF%BC%9AA%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieval%20Models.md)\]
-* _2016.12_ Sequential Match Network-A New Architecture \[[arXiv](https://arxiv.org/abs/1612.01627)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequential%20Match%20Network-A%20New%20Architecture%20for%20Multi-trun%20Response%20Selection%20in%20Retrieval-based%20Chatbots.md)\]
+* _2016.12_ A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots \[[arXiv](https://arxiv.org/abs/1612.01627)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequential%20Match%20Network-A%20New%20Architecture%20for%20Multi-trun%20Response%20Selection%20in%20Retrieval-based%20Chatbots.md)\]
 * _2016.02_ Attentive Pooling Networks \[[arXiv](https://arxiv.org/abs/1602.03609v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Attentive%20Pooling%20Networks.md)\]
 * _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arXiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
 
