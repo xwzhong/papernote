@@ -6,7 +6,7 @@
 * _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arXiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
 
 ### generative model:
-* _2017.04_ Emotional Chatting Machine \[[arXiv](https://arxiv.org/abs/1704.01074)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Emotional%20Chatting%20Machine%EF%BC%9AEmotional%20Conversation%20Generation%20with%20Internal%20and%20External%20Memory.md)\]
+* _2017.04_ Emotional Conversation Generation with Internal and External Memory \[[arXiv](https://arxiv.org/abs/1704.01074)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Emotional%20Chatting%20Machine%EF%BC%9AEmotional%20Conversation%20Generation%20with%20Internal%20and%20External%20Memory.md)\]
 * _2017.02_ A Knowledeg-Grounded Neural Conversation Model \[[arXiv](https://arxiv.org/abs/1702.01932v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/A%20Knowledeg-Grounded%20Neural%20Conversation%20Model.md)\]
 * _2017.01_ Generating Long and Diverse Responses with Neural Conversation Models \[[arXiv](https://arxiv.org/abs/1701.03185)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Generating%20Long%20and%20Diverse%20Responses%20with%20Neural%20Conversation%20Models.md)\]
 * _2016.07_ Sequence to Backward and Forward Sequence \[[arXiv](https://arxiv.org/abs/1607.00970)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequence%20to%20Backward%20and%20Forward%20Sequences%20A%20Content-Introducing%20Approach%20to%20Generative%20Short-Text%20Conversation.md)\]
