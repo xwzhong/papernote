@@ -7,7 +7,7 @@
   2. 对待表示的句子，将每个词的词向量加权求和，每个词的权重仅用到了词的概率和人为设定的参数a；
   3. 对第2步得到的句向量使用PCA或SVD进行微调。
 
-summary：
+#### summary：
 
   1. 在一般任务中，对句子的word embedding使用tfidf方式进行加权比求平均更优；
   2. 再paper提出的方法中，不同训练集得到的word embedding适用于与其不同domain的数据；
