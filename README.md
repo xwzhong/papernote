@@ -1,4 +1,4 @@
-## [chatbot](https://github.com/xwzhong/papernote/tree/master/chatbot)
+## [qa&chatbot](https://github.com/xwzhong/papernote/tree/master/chatbot)
 ### retrieval model:
 * _2017.05_ IRGAN \[[arXiv](https://arxiv.org/abs/1705.10513)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/IRGAN%EF%BC%9AA%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieval%20Models.md)\]
 * _2016.12_ A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots \[[arXiv](https://arxiv.org/abs/1612.01627)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequential%20Match%20Network-A%20New%20Architecture%20for%20Multi-trun%20Response%20Selection%20in%20Retrieval-based%20Chatbots.md)\]
