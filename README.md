@@ -1,6 +1,7 @@
 ## [qa&chatbot](https://github.com/xwzhong/papernote/tree/master/chatbot)
 ### retrieval model:
 * _2017.05_ IRGAN \[[arXiv](https://arxiv.org/abs/1705.10513)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/IRGAN%EF%BC%9AA%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieval%20Models.md)\]
+* _2017.02_ Bilateral Multi-Perspective Matching for Natural Language Sentences \[[arXiv](https://arxiv.org/abs/1702.03814v3)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Bilateral%20Multi-Perspective%20Matching%20for%20Natural%20Language%20Sentences.md)\]
 * _2016.12_ A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots \[[arXiv](https://arxiv.org/abs/1612.01627)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequential%20Match%20Network-A%20New%20Architecture%20for%20Multi-trun%20Response%20Selection%20in%20Retrieval-based%20Chatbots.md)\]
 * _2016.02_ Attentive Pooling Networks \[[arXiv](https://arxiv.org/abs/1602.03609v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Attentive%20Pooling%20Networks.md)\]
 * _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arXiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
@@ -20,6 +21,7 @@
 * _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arXiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
 
 ## [sentence embedding](https://github.com/xwzhong/papernote/tree/master/sentence%20embedding)
+* _2016.05_ Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention \[[arXiv](https://arxiv.org/abs/1605.09090v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/Learning%20Natural%20Language%20Inference%20using%20Bidirectional%20LSTM%20model%20and%20Inner-Attention.md)\]
 * _2016.xx_ A Simple But Tough to Beat Baseline for Sentence Embeddings \[[openreview](https://openreview.net/pdf?id=SyK00v5xx)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/A%20Simple%20But%20Tough%20to%20Beat%20Baseline%20for%20Sentence%20Embeddings.md)\]
 
 ## [reading comprehension](https://github.com/xwzhong/papernote/tree/master/reading%20comprehension)
