@@ -34,7 +34,7 @@
 |   WordLevel     |   0.7380       |    0.8270     |   0.7550     |    0.8250     |   [aclweb](http://www.aclweb.org/anthology/N16-1108)  |   -   |
 |  AP-CNN   |  0.7530     |    0.8511   | - | -   |   [arxiv](https://arxiv.org/abs/1602.03609v1)  | [note](https://github.com/xwzhong/papernote/blob/master/chatbot/Attentive%20Pooling%20Networks.md)   |
 |  PairwiseRank+WordLevel   |    0.7620  |    0.8540     |    0.7640  |   0.8270     |    [semanticscholar](https://pdfs.semanticscholar.org/cf8b/bceaca91f791388a64f3f1a0392d64e41f4f.pdf)  |    [note](https://github.com/xwzhong/papernote/blob/master/chatbot/Noise-Contrastive%20Estimation%20for%20Answer%20Selection%20with%20Deep%20Neural%20Networks.md)   |
-|   SentLevel     |   0.7770       |    0.836     |   0.7620     |    0.8300     |   [uchicago](http://ttic.uchicago.edu/~kgimpel/papers/he+etal.emnlp15.pdf)  |   -   |
+|   SentLevel     |   0.7770       |    0.8360     |   0.7620     |    0.8300     |   [uchicago](http://ttic.uchicago.edu/~kgimpel/papers/he+etal.emnlp15.pdf)  |   -   |
 |  PairwiseRank+SentLevel   |    0.8010  |    0.8770     |    0.7800|   0.8340     |    [semanticscholar](https://pdfs.semanticscholar.org/cf8b/bceaca91f791388a64f3f1a0392d64e41f4f.pdf)  |    [note](https://github.com/xwzhong/papernote/blob/master/chatbot/Noise-Contrastive%20Estimation%20for%20Answer%20Selection%20with%20Deep%20Neural%20Networks.md)   |
 | BiMPM  |  0.8020   |  0.8750    | - | -  |   [arxiv](https://arxiv.org/abs/1702.03814v3)  | [note](https://github.com/xwzhong/papernote/blob/master/chatbot/Bilateral%20Multi-Perspective%20Matching%20for%20Natural%20Language%20Sentences.md)   |
 |        |          |         |        |         |   [arxiv]()  |    [note]()   |
