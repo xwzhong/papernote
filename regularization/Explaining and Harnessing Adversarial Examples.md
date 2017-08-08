@@ -14,3 +14,6 @@
 
 #### highlight:
 &emsp;&emsp;The adversarial training procedure can be seen as minimizing the worst case error when the data is perturbed by an adversary.
+
+#### more reading:
+[深度学习：简单而有局限性的求解方式](https://www.jiqizhixin.com/articles/3e949ae2-48ac-4606-98a0-844fb291c4d4)
