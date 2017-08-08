@@ -16,4 +16,5 @@
 
 #### [code](https://github.com/geek-ai/irgan)
 
+#### more reading:
 [阿里SIGIR 2017论文：GAN在信息检索领域的应用](https://www.jiqizhixin.com/articles/44049401-05c0-4b77-884a-74a21695cb27)
