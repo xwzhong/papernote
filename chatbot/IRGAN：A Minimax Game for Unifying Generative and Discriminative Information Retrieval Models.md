@@ -15,3 +15,5 @@
   4. paper所讲的内容虽然比较绕，但并不会使论文褪色，结合作者给出的代码更容易理解。
 
 #### [code](https://github.com/geek-ai/irgan)
+
+[阿里SIGIR 2017论文：GAN在信息检索领域的应用](https://www.jiqizhixin.com/articles/44049401-05c0-4b77-884a-74a21695cb27)
