@@ -42,6 +42,7 @@
 * _unknown_ Calculus on Computational Graphs: Backpropagation \[[github](http://colah.github.io/posts/2015-08-Backprop/)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Calculus%20on%20Computational%20Graphs:%20Backpropagation.md)\]
 * _2014.12_ Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling \[[arxiv](https://arxiv.org/pdf/1412.3555)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling.md)\]
 * _2014.09_ Recurrent Neural Network Regularization \[[arxiv](https://arxiv.org/pdf/1409.2329.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Recurrent%20Neural%20Network%20Regularization.md)\]
+* _2013.12_ How to Construct Deep Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1312.6026)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.md)\]
 
 ## [seq2seq](https://github.com/xwzhong/papernote/tree/master/seq2seq)
 * _2017.04_ Learning to Skim Text \[[arxiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/seq2seq/Learning%20to%20Skim%20Text.md)\]
