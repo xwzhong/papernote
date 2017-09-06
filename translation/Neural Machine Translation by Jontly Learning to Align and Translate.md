@@ -1,4 +1,4 @@
-### Neural Machine Translation by Jontly Learning to Align and Translate 
+### Neural Machine Translation by Jointly Learning to Align and Translate 
 
 #### note:
 &emsp;&emsp;basic seq2seq把input信息都encode进“一个”固定的vector中，其vector本身的表达能力有限，特别是针对input句子本身比较长的情况，句子越长，vector信息越模糊。paper提出的解决方案是在decoder的每一个step中，不仅考虑decoder在该step之前得到的connection信息s和输入y，还对encoder部分“每一个”STEP进行回顾，并判定各个STEP隐层信息的权重、加权求和，得到该decoder部分step下的输入。
