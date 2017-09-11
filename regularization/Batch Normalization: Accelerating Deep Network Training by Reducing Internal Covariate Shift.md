@@ -5,4 +5,8 @@
 
 #### comment：
   1. 文章讲了该方法提出的很多理论，对深入了解神经网络很有帮助，同时非常建议研读“Understanding the difficulty of training deep feedforward neural networks”；
-  2. paper提出的方法有以下特点：可使用更大的learning rate值（更高的lr也对应了更快的decay），加速模型训练（能加速并不特指增加了lr本身，还有其它因素），正则化（从而能降低其它正则化的强度，如dropout，l2等）；batch size不能太低（个位数），理论上越高越好。
+  2. paper提出的方法有以下特点：可使用更大的learning rate值（更高的lr也对应了更快的decay），加速模型训练（能加速并不特指增加了lr本身，还有其它因素），正则化（从而能降低其它正则化的强度，如dropout，l2等）；batch size不能太低（eg: 个位数），理论上越高越好。
+
+#### highlight:
+  1. We define Internal Covariate Shift as the change in the distribution of network activations due to the change in network parameters during training. To improve the training, we seek to reduce the internal covariate shift. By fixing the distribution of the layer inputs x as the training progresses, we expect to improve the training speed.
+  2. By whitening the inputs to each layer, we would take a step towards achieving the fixed distributions of inputs that would remove the ill effects of the internal covariate shift.
