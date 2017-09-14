@@ -1,5 +1,5 @@
 ## [qa & chatbot](https://github.com/xwzhong/papernote/tree/master/chatbot)
-### retrieval model ([leaderboard](https://github.com/xwzhong/papernote/blob/master/chatbot/README.md)):
+### retrieval-based ([leaderboard](https://github.com/xwzhong/papernote/blob/master/chatbot/README.md)):
 * _2017.05_ IRGAN \[[arxiv](https://arxiv.org/abs/1705.10513)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/IRGAN%EF%BC%9AA%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieval%20Models.md)\]
 * _2017.02_ Bilateral Multi-Perspective Matching for Natural Language Sentences \[[arxiv](https://arxiv.org/abs/1702.03814v3)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Bilateral%20Multi-Perspective%20Matching%20for%20Natural%20Language%20Sentences.md)\]
 * _2016.12_ A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots \[[arxiv](https://arxiv.org/abs/1612.01627)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequential%20Match%20Network-A%20New%20Architecture%20for%20Multi-trun%20Response%20Selection%20in%20Retrieval-based%20Chatbots.md)\]
@@ -8,7 +8,7 @@
 * _2016.xx_ Noise-Contrastive Estimation for Answer Selection with Deep Neural Networks \[[semanticscholar](https://pdfs.semanticscholar.org/cf8b/bceaca91f791388a64f3f1a0392d64e41f4f.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Noise-Contrastive%20Estimation%20for%20Answer%20Selection%20with%20Deep%20Neural%20Networks.md)\]
 * _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arxiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
 
-### generative model:
+### generation-based:
 * _2017.04_ Emotional Conversation Generation with Internal and External Memory \[[arxiv](https://arxiv.org/abs/1704.01074)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Emotional%20Chatting%20Machine%EF%BC%9AEmotional%20Conversation%20Generation%20with%20Internal%20and%20External%20Memory.md)\]
 * _2017.02_ A Knowledeg-Grounded Neural Conversation Model \[[arxiv](https://arxiv.org/abs/1702.01932v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/A%20Knowledeg-Grounded%20Neural%20Conversation%20Model.md)\]
 * _2017.01_ Generating Long and Diverse Responses with Neural Conversation Models \[[arxiv](https://arxiv.org/abs/1701.03185)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Generating%20Long%20and%20Diverse%20Responses%20with%20Neural%20Conversation%20Models.md)\]
