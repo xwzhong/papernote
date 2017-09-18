@@ -17,6 +17,9 @@
 * _2016.06_ Deep Reinforcement Learning for Dialogue Generation \[[arxiv](https://arxiv.org/abs/1606.01541)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Deep%20Reinforcement%20Learning%20for%20Dialogue%20Generation.md)\]
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arxiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
+## [information retrieval](https://github.com/xwzhong/papernote/tree/master/information%20retrieval)
+* _2005.08_ Personalizing Search via Automated Analysis of Interests and Activities \[[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigir05.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/information%20retrieval/Personalizing%20Search%20via%20Automated%20Analysis%20of%20Interests%20and%20Activities.md)\]
+
 ## [translation](https://github.com/xwzhong/papernote/tree/master/translation)
 * _2014.12_ On Using Very Large Target Vocabulary for Neural Machine Translation \[[arxiv](https://arxiv.org/abs/1412.2007v2)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md)\]
 * _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arxiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
@@ -26,6 +29,7 @@
 * _2017.05_ Supervised Learning of Universal Sentence Representations from Natural Language Inference Data \[[arxiv](https://arxiv.org/abs/1705.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)\]
 * _2016.05_ Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention \[[arxiv](https://arxiv.org/abs/1605.09090v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/Learning%20Natural%20Language%20Inference%20using%20Bidirectional%20LSTM%20model%20and%20Inner-Attention.md)\]
 * _2016.xx_ A Simple But Tough to Beat Baseline for Sentence Embeddings \[[openreview](https://openreview.net/pdf?id=SyK00v5xx)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/A%20Simple%20But%20Tough%20to%20Beat%20Baseline%20for%20Sentence%20Embeddings.md)\]
+* _2015.11_ Order-Embeddings of Images and Language \[[arxiv](https://arxiv.org/pdf/1511.06361.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/Order-Embeddings%20of%20Images%20and%20Language.md)\]
 
 ## [reading comprehension](https://github.com/xwzhong/papernote/tree/master/reading%20comprehension)
 * _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arxiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
