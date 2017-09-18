@@ -1,7 +1,7 @@
 ### Word or Characters, Fine-grained Gating For Reading Comprehension
 
 #### note:
-&emsp;&emsp;paper主要讲了基于word-level和char-level形成high-level vector时的一个改进trick, 该trick是在[miyamoto](https://arxiv.org/abs/1606.01700)基础上提出的，把原来的scale改为vector。
+&emsp;&emsp;paper主要讲了基于word-level和char-level形成high-level vector时的一个改进trick, 该trick是在[miyamoto](https://arxiv.org/abs/1606.01700)基础上提出的，把原来的scalar改为vector。
 
 #### comment:
 1. paper提到的改进方案的核心思想是使用能计算的额外知识（如：token的词性，频率等）用模型自动学习的能力把这些知识加到模型中；
