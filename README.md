@@ -39,9 +39,9 @@
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
 * _2016.03_ Recurrent Batch Normalization \[[arxiv](https://arxiv.org/abs/1603.09025v5)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Recurrent%20Batch%20Normalization.md)\]
-* _2016.02_ Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks \[[arxiv](https://arxiv.org/abs/1602.07868)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Weight%20Normalization:%20A%20Simple%20Reparameterization%20to%20Accelerate%20Training%20of%20Deep%20Neural%20Networks.md)\]
+* _2016.02_ Weight Normalization \[[arxiv](https://arxiv.org/abs/1602.07868)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Weight%20Normalization:%20A%20Simple%20Reparameterization%20to%20Accelerate%20Training%20of%20Deep%20Neural%20Networks.md)\]
 * _2015.10_ Batch Normalized Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1510.01378)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Batch%20Normalized%20Recurrent%20Neural%20Networks.md)\]
-* _2015.02_ Batch Normalization:Accelerating Deep Network Training by Reducing Internal Covariate Shift\[[arxiv](https://arxiv.org/pdf/1502.03167.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Batch%20Normalization:%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.md)\]
+* _2015.02_ Batch Normalization \[[arxiv](https://arxiv.org/pdf/1502.03167.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Batch%20Normalization:%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.md)\]
 * _2014.12_ Explaining and Harnessing Adversarial Examples \[[arxiv](https://arxiv.org/abs/1412.6572v3)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Explaining%20and%20Harnessing%20Adversarial%20Examples.md)\]
 
 ## [rnn](https://github.com/xwzhong/papernote/tree/master/rnn)
