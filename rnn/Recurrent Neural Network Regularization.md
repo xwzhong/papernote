@@ -10,3 +10,6 @@
 #### code: 
 * [python](https://github.com/tensorflow/models/blob/master/tutorials/rnn/ptb/ptb_word_lm.py)
 * [lua](https://github.com/wojzaremba/lstm)
+
+#### more reading:
+[what happen to dropout](https://www.reddit.com/r/MachineLearning/comments/5l3f1c/d_what_happened_to_dropout/)
