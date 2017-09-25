@@ -1,7 +1,7 @@
 ### Recurrent Dropout without Memory Loss
 #### note:
   
-&emsp;&emsp;针对RNN、LSTM和GRU具有长时记忆能力，作者提出了在hidden2hidden层间进行dropout的策略，该策略有别于[Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329)指出进行dropout的位置，而且经实验发现，paper提出recurrent dropout方式整合input2hidden及hidden2output位置dropout能得到更好的效果。以LSTM为例，在hidden2hidden层，作者仅对“hidden state update”进行dropout（详见式9）。同时dropout方程不同于hinton提出的式3，而为式18。 
+&emsp;&emsp;针对RNN、LSTM和GRU具有长时记忆能力，作者提出了在hidden2hidden层间进行dropout的策略，该策略有别于[Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329)指出进行dropout的位置，而且经实验发现，paper提出recurrent dropout方式整合input2hidden及hidden2output位置dropout能得到更好的效果。以LSTM为例，在hidden2hidden层，作者仅对“hidden state update”进行dropout（详见式9）。同时dropout方程不同于hinton提出的式3，而为式18（防止在inference过程中dropping theupdate vectors g）。
 
 #### comment:
   
@@ -12,5 +12,12 @@
 #### code: 
 * [theano](https://github.com/stas-semeniuta/drop-rnn)
 
+#### highligt:
+* We have observed that it helps the network to generalize better when not coupled with the forward dropout, but is usually no longer beneficial when used together with a regular forward dropout. The problem is caused by the scaling of neuron activations during inference.
+* In this case the above argument holds as well, but instead of observing exponentially decreasing hidden states during testing, we will observe exponentially increasing values of hidden states during training.Our approach addresses the problem discussed previously by dropping the update vectors g.
+
 #### q&a: 
 1. per-step和per-sequence没有完全理解其区别
+
+#### more reading:
+[谈谈Tensorflow的dropout](http://www.jianshu.com/p/c9f66bc8f96c)
