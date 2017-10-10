@@ -38,6 +38,7 @@
 * _2017.06_ A simple neural network module for relational reasoning \[[arxiv](https://arxiv.org/abs/1706.01427)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reasoning/A%20simple%20neural%20network%20module%20for%20relational%20reasoning.md)\]
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
+* _2017.02_ Batch Renormalization \[[arxiv](https://arxiv.org/abs/1702.03275)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Batch%20Renormalization:%20Towards%20Reducing%20Minibatch%20Dependence%20in%20Batch-Normalized%20Models.md)\]
 * _2016.07_ Layer Normalization \[[arxiv](https://arxiv.org/abs/1607.06450)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Layer%20Normalization.md)\]
 * _2016.03_ Recurrent Batch Normalization \[[arxiv](https://arxiv.org/abs/1603.09025v5)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Recurrent%20Batch%20Normalization.md)\]
 * _2016.02_ Weight Normalization \[[arxiv](https://arxiv.org/abs/1602.07868)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Weight%20Normalization:%20A%20Simple%20Reparameterization%20to%20Accelerate%20Training%20of%20Deep%20Neural%20Networks.md)\]
