@@ -47,15 +47,16 @@
 * _2014.12_ Explaining and Harnessing Adversarial Examples \[[arxiv](https://arxiv.org/abs/1412.6572v3)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Explaining%20and%20Harnessing%20Adversarial%20Examples.md)\]
 * _2009.06_ Curriculum Learning \[[collobert](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/curriculum%20learning.md)\]
 
-## [rnn](https://github.com/xwzhong/papernote/tree/master/rnn)
-* _2017.04_ Learning to Generate Reviews and Discovering Sentiment \[[arxiv](http://de.arxiv.org/pdf/1704.01444)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Learning%20to%20Generate%20Reviews%20and%20Discovering%20Sentiment.md)\]
-* _2017.04_ Exploring Sparsity in Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1704.05119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Exploring%20Sparsity%20in%20Recurrent%20Neural%20Networks.md)\]
-* _2017.01_ Dialog Context Language Modeling with Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1701.04056)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Dialog%20Context%20Language%20Modeling%20with%20Recurrent%20Neural%20Networks.md)\]
-* _2016.03_ Recurrent Dropout without Memory Loss \[[arxiv](https://arxiv.org/abs/1603.05118)\]\[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Recurrent%20Dropout%20without%20Memory%20Loss.md)\]
-* _unknown_ Calculus on Computational Graphs: Backpropagation \[[github](http://colah.github.io/posts/2015-08-Backprop/)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Calculus%20on%20Computational%20Graphs:%20Backpropagation.md)\]
-* _2014.12_ Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling \[[arxiv](https://arxiv.org/pdf/1412.3555)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling.md)\]
-* _2014.09_ Recurrent Neural Network Regularization \[[arxiv](https://arxiv.org/pdf/1409.2329.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/Recurrent%20Neural%20Network%20Regularization.md)\]
-* _2013.12_ How to Construct Deep Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1312.6026)\] \[[note](https://github.com/xwzhong/papernote/blob/master/rnn/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.md)\]
+## [nn](https://github.com/xwzhong/papernote/tree/master/nn)
+* _2017.04_ Learning to Generate Reviews and Discovering Sentiment \[[arxiv](http://de.arxiv.org/pdf/1704.01444)\] \[[note](https://github.com/xwzhong/papernote/blob/master/nn/Learning%20to%20Generate%20Reviews%20and%20Discovering%20Sentiment.md)\]
+* _2017.04_ Exploring Sparsity in Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1704.05119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/nn/Exploring%20Sparsity%20in%20Recurrent%20Neural%20Networks.md)\]
+* _2017.01_ Dialog Context Language Modeling with Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1701.04056)\] \[[note](https://github.com/xwzhong/papernote/blob/master/nn/Dialog%20Context%20Language%20Modeling%20with%20Recurrent%20Neural%20Networks.md)\]
+* _2016.09_ An overview of gradient descent optimization algorithms \[[arxiv](https://arxiv.org/abs/1609.04747)\] \[[note](https://github.com/xwzhong/papernote/blob/master/nn/An%20overview%20of%20gradient%20descent%20optimization%20algorithms.md)\]
+* _2016.03_ Recurrent Dropout without Memory Loss \[[arxiv](https://arxiv.org/abs/1603.05118)\]\[[note](https://github.com/xwzhong/papernote/blob/master/nn/Recurrent%20Dropout%20without%20Memory%20Loss.md)\]
+* _unknown_ Calculus on Computational Graphs: Backpropagation \[[github](http://colah.github.io/posts/2015-08-Backprop/)\] \[[note](https://github.com/xwzhong/papernote/blob/master/nn/Calculus%20on%20Computational%20Graphs:%20Backpropagation.md)\]
+* _2014.12_ Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling \[[arxiv](https://arxiv.org/pdf/1412.3555)\] \[[note](https://github.com/xwzhong/papernote/blob/master/nn/Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling.md)\]
+* _2014.09_ Recurrent Neural Network Regularization \[[arxiv](https://arxiv.org/pdf/1409.2329.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/nn/Recurrent%20Neural%20Network%20Regularization.md)\]
+* _2013.12_ How to Construct Deep Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1312.6026)\] \[[note](https://github.com/xwzhong/papernote/blob/master/nn/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.md)\]
 
 ## [seq2seq](https://github.com/xwzhong/papernote/tree/master/seq2seq)
 * _2017.04_ Learning to Skim Text \[[arxiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/seq2seq/Learning%20to%20Skim%20Text.md)\]
