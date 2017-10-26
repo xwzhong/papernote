@@ -17,25 +17,15 @@
 * _2016.06_ Deep Reinforcement Learning for Dialogue Generation \[[arxiv](https://arxiv.org/abs/1606.01541)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Deep%20Reinforcement%20Learning%20for%20Dialogue%20Generation.md)\]
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arxiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
-## [information retrieval](https://github.com/xwzhong/papernote/tree/master/information%20retrieval)
-* _2005.08_ Personalizing Search via Automated Analysis of Interests and Activities \[[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigir05.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/information%20retrieval/Personalizing%20Search%20via%20Automated%20Analysis%20of%20Interests%20and%20Activities.md)\]
+## [embedding](https://github.com/xwzhong/papernote/tree/master/embedding)
+### word embedding:
+* _2013.01_ Linguistic Regularities in Continuous Space Word Representations \[[aclweb](https://www.aclweb.org/anthology/N13-1090)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Linguistic%20Regularities%20in%20Continuous%20Space%20Word%20Representations.md)\]
 
-## [translation](https://github.com/xwzhong/papernote/tree/master/translation)
-* _2014.12_ On Using Very Large Target Vocabulary for Neural Machine Translation \[[arxiv](https://arxiv.org/abs/1412.2007v2)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md)\]
-* _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arxiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
-* _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arxiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
-
-## [sentence embedding](https://github.com/xwzhong/papernote/tree/master/sentence%20embedding)
+### sentence embedding:
 * _2017.05_ Supervised Learning of Universal Sentence Representations from Natural Language Inference Data \[[arxiv](https://arxiv.org/abs/1705.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)\]
 * _2016.05_ Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention \[[arxiv](https://arxiv.org/abs/1605.09090v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/Learning%20Natural%20Language%20Inference%20using%20Bidirectional%20LSTM%20model%20and%20Inner-Attention.md)\]
 * _2016.xx_ A Simple But Tough to Beat Baseline for Sentence Embeddings \[[openreview](https://openreview.net/pdf?id=SyK00v5xx)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/A%20Simple%20But%20Tough%20to%20Beat%20Baseline%20for%20Sentence%20Embeddings.md)\]
 * _2015.11_ Order-Embeddings of Images and Language \[[arxiv](https://arxiv.org/pdf/1511.06361.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sentence%20embedding/Order-Embeddings%20of%20Images%20and%20Language.md)\]
-
-## [reading comprehension](https://github.com/xwzhong/papernote/tree/master/reading%20comprehension)
-* _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arxiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
-
-## [reasoning](https://github.com/xwzhong/papernote/tree/master/reasoning)
-* _2017.06_ A simple neural network module for relational reasoning \[[arxiv](https://arxiv.org/abs/1706.01427)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reasoning/A%20simple%20neural%20network%20module%20for%20relational%20reasoning.md)\]
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
 * _2017.02_ Batch Renormalization \[[arxiv](https://arxiv.org/abs/1702.03275)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Batch%20Renormalization:%20Towards%20Reducing%20Minibatch%20Dependence%20in%20Batch-Normalized%20Models.md)\]
@@ -62,3 +52,17 @@
 * _2017.04_ Learning to Skim Text \[[arxiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Learning%20to%20Skim%20Text.md)\]
 * _2015.06_ Skip-Thought Vectors \[[arxiv](https://arxiv.org/abs/1506.06726)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Skip-Thought%20Vectors.md)\]
 * _2014.12_ Grammar as a Foreign Language \[[arxiv](https://arxiv.org/abs/1412.7449)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Grammar%20as%20a%20Foreign%20Language.md)\]
+
+## [translation](https://github.com/xwzhong/papernote/tree/master/translation)
+* _2014.12_ On Using Very Large Target Vocabulary for Neural Machine Translation \[[arxiv](https://arxiv.org/abs/1412.2007v2)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md)\]
+* _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arxiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
+* _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arxiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
+
+## [reading comprehension](https://github.com/xwzhong/papernote/tree/master/reading%20comprehension)
+* _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arxiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
+
+## [reasoning](https://github.com/xwzhong/papernote/tree/master/reasoning)
+* _2017.06_ A simple neural network module for relational reasoning \[[arxiv](https://arxiv.org/abs/1706.01427)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reasoning/A%20simple%20neural%20network%20module%20for%20relational%20reasoning.md)\]
+
+## [information retrieval](https://github.com/xwzhong/papernote/tree/master/information%20retrieval)
+* _2005.08_ Personalizing Search via Automated Analysis of Interests and Activities \[[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigir05.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/information%20retrieval/Personalizing%20Search%20via%20Automated%20Analysis%20of%20Interests%20and%20Activities.md)\]
