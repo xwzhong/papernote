@@ -10,14 +10,14 @@
 #### summary：
 
   1. 在一般任务中，对句子的word embedding使用tfidf方式进行加权比求平均更优；
-  2. 再paper提出的方法中，不同训练集得到的word embedding适用于与其不同domain的数据；
+  2. paper提出的方法中，不同训练集得到的word embedding适用于与其不同domain的数据；
   3. paper提出的方法因为沿用了word2vec或GloVe，因此自然也保留了其无监督方法的特点，如反义词的word embedding相似，造成在情感分析的任务中表现较差；
   4. 论文4.3部分以词序作为变量在多组不同任务（similarity、entailment、sentiment）中进行了实验，可知词序对这些任务都有助提高；
   5. 通过table5、6对比可知：
      a. tfidf-GloVe有20个（总数为26）比GloVe-W更优，因此猜想tfidf+GlVe+R会有最优结果；
      b. Twitter数据在GloVe+R中比所有模型高20%左右，这点值得思考；
   6. SNLI数据集[leaderboard](https://nlp.stanford.edu/projects/snli/)显示，sentence embedding方法最高为84.6%（2017-07-20），本方法为78.2%；
-  7. paper所提出的方法确实比较简单，但同时也给出了相应的理论证明，而且在某些任务上表现不错。但是仍需就待解决的实际问题来选择使用哪方面的方法，考虑是否使用word embedding，词序，tfidf，PCA/SVD等等，需分析什么时候需要，什么时候不需要。
+  7. paper所提出的方法确实比较简单，但也给出了相应的理论证明，在某些任务上表现不错。总之，需就待解决的实际问题来选择使用哪方面的方法，考虑是否使用word embedding，词序，tfidf，PCA/SVD等等，需分析什么时候需要，什么时候不需要。
 
 #### highlight:
   1. Use word embeddings computed using one of the popular methods on unlabeled corpus like Wikipedia, represent the sentence by a weighted average of the word vectors, and then modify them a bit using PCA/SVD.
