@@ -50,6 +50,7 @@
 * _2014.12_ Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling \[[arxiv](https://arxiv.org/pdf/1412.3555)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling.md)\]
 * _2014.09_ Recurrent Neural Network Regularization \[[arxiv](https://arxiv.org/pdf/1409.2329.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Recurrent%20Neural%20Network%20Regularization.md)\]
 * _2013.12_ How to Construct Deep Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1312.6026)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.md)\]
+* _2009.xx_ How to Construct Deep Recurrent Neural Networks \[[imag](http://www-prima.imag.fr/jlc/Courses/2016/PRML/XavierInitialisation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.md)\]
 
 ## [sequence to sequence](https://github.com/xwzhong/papernote/tree/master/sequence%20to%20sequence/)
 * _2017.04_ Learning to Skim Text \[[arxiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Learning%20to%20Skim%20Text.md)\]
