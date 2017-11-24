@@ -18,7 +18,7 @@
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arxiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
 ## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
-* _2014.10_ Convolutional Neural Networks for Sentence Classification \[[aclweb](http://www.aclweb.org/anthology/D14-1181)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.md)\]
+* _2014.08_ Convolutional Neural Networks for Sentence Classification \[[aclweb](http://www.aclweb.org/anthology/D14-1181)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.md)\]
 
 ## [embedding](https://github.com/xwzhong/papernote/tree/master/embedding)
 ### word embedding:
