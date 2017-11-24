@@ -17,6 +17,9 @@
 * _2016.06_ Deep Reinforcement Learning for Dialogue Generation \[[arxiv](https://arxiv.org/abs/1606.01541)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Deep%20Reinforcement%20Learning%20for%20Dialogue%20Generation.md)\]
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arxiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
+## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
+* _2014.10_ Convolutional Neural Networks for Sentence Classification \[[aclweb](http://www.aclweb.org/anthology/D14-1181)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.md)\]
+
 ## [embedding](https://github.com/xwzhong/papernote/tree/master/embedding)
 ### word embedding:
 * _2013.01_ Linguistic Regularities in Continuous Space Word Representations \[[aclweb](https://www.aclweb.org/anthology/N13-1090)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Linguistic%20Regularities%20in%20Continuous%20Space%20Word%20Representations.md)\]
