@@ -4,8 +4,8 @@
 * _2017.02_ Bilateral Multi-Perspective Matching for Natural Language Sentences \[[arxiv](https://arxiv.org/abs/1702.03814v3)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Bilateral%20Multi-Perspective%20Matching%20for%20Natural%20Language%20Sentences.md)\]
 * _2016.12_ A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots \[[arxiv](https://arxiv.org/abs/1612.01627)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequential%20Match%20Network-A%20New%20Architecture%20for%20Multi-trun%20Response%20Selection%20in%20Retrieval-based%20Chatbots.md)\]
 * _2016.11_ A Compare-Aggregate Model for Matching Text Sequences \[[arxiv](https://arxiv.org/abs/1611.01747)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/A%20Compare-Aggregate%20Model%20for%20Matching%20Text%20Sequences.md)\]
+* _2016.10_ Noise-Contrastive Estimation for Answer Selection with Deep Neural Networks \[[semanticscholar](https://pdfs.semanticscholar.org/cf8b/bceaca91f791388a64f3f1a0392d64e41f4f.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Noise-Contrastive%20Estimation%20for%20Answer%20Selection%20with%20Deep%20Neural%20Networks.md)\]
 * _2016.02_ Attentive Pooling Networks \[[arxiv](https://arxiv.org/abs/1602.03609v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Attentive%20Pooling%20Networks.md)\]
-* _2016.xx_ Noise-Contrastive Estimation for Answer Selection with Deep Neural Networks \[[semanticscholar](https://pdfs.semanticscholar.org/cf8b/bceaca91f791388a64f3f1a0392d64e41f4f.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Noise-Contrastive%20Estimation%20for%20Answer%20Selection%20with%20Deep%20Neural%20Networks.md)\]
 * _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arxiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
 
 ### generation-based:
@@ -29,7 +29,7 @@
 ### sentence embedding:
 * _2017.05_ Supervised Learning of Universal Sentence Representations from Natural Language Inference Data \[[arxiv](https://arxiv.org/abs/1705.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)\]
 * _2016.05_ Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention \[[arxiv](https://arxiv.org/abs/1605.09090v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Learning%20Natural%20Language%20Inference%20using%20Bidirectional%20LSTM%20model%20and%20Inner-Attention.md)\]
-* _2016.xx_ A Simple But Tough to Beat Baseline for Sentence Embeddings \[[openreview](https://openreview.net/pdf?id=SyK00v5xx)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/A%20Simple%20But%20Tough%20to%20Beat%20Baseline%20for%20Sentence%20Embeddings.md)\]
+* _2016.11_ A Simple But Tough to Beat Baseline for Sentence Embeddings \[[openreview](https://openreview.net/pdf?id=SyK00v5xx)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/A%20Simple%20But%20Tough%20to%20Beat%20Baseline%20for%20Sentence%20Embeddings.md)\]
 * _2015.11_ Order-Embeddings of Images and Language \[[arxiv](https://arxiv.org/pdf/1511.06361.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Order-Embeddings%20of%20Images%20and%20Language.md)\]
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
@@ -55,7 +55,7 @@
 * _2014.12_ Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling \[[arxiv](https://arxiv.org/pdf/1412.3555)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling.md)\]
 * _2014.09_ Recurrent Neural Network Regularization \[[arxiv](https://arxiv.org/pdf/1409.2329.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Recurrent%20Neural%20Network%20Regularization.md)\]
 * _2013.12_ How to Construct Deep Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1312.6026)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.md)\]
-* _2009.xx_ Understanding the difficulty of training deep feedforward neural networks \[[imag](http://www-prima.imag.fr/jlc/Courses/2016/PRML/XavierInitialisation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.md)\]
+* _2010.xx_ Understanding the difficulty of training deep feedforward neural networks \[[imag](http://www-prima.imag.fr/jlc/Courses/2016/PRML/XavierInitialisation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.md)\]
 
 ## [sequence to sequence](https://github.com/xwzhong/papernote/tree/master/sequence%20to%20sequence/)
 * _2017.04_ Learning to Skim Text \[[arxiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Learning%20to%20Skim%20Text.md)\]
