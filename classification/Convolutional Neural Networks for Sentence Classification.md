@@ -19,7 +19,7 @@
 
 #### hightlight:
   1. Dropout consistently added 2%–4% relative performance.
-  2. we obtained slight improve- ments by sampling each dimension from U [−a, a] where a was chosen such that the randomly initialized vectors have the same variance as the pre-trained ones.(detail???)
+  2. we obtained slight improve- ments by sampling each dimension from U [−a, a] where a was chosen such that the randomly initialized vectors have the same variance as the pre-trained ones.([detail](https://github.com/yoonkim/CNN_sentence/blob/master/process_data.py#L88), why???)
   3. Adadelta (Zeiler, 2012) gave similar results to Adagrad (Duchi et al., 2011) but required fewer epochs.([更多介绍](https://github.com/xwzhong/papernote/blob/master/neural%20network/An%20overview%20of%20gradient%20descent%20optimization%20algorithms.md))
 
 #### [code](https://github.com/yoonkim/CNN_sentence)
