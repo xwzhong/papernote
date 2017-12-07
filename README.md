@@ -19,6 +19,7 @@
 
 ## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
 * _2014.08_ Convolutional Neural Networks for Sentence Classification \[[aclweb](http://www.aclweb.org/anthology/D14-1181)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.md)\]
+* _2012.07_ Baselines and Bigrams: Simple, Good Sentiment and Topic Classification \[[aclweb](https://www.aclweb.org/anthology/P12-2018)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Baselines%20and%20Bigrams:%20Simple%2C%20Good%20Sentiment%20and%20Topic%20Classification.md)\]
 
 ## [embedding](https://github.com/xwzhong/papernote/tree/master/embedding)
 ### word embedding:
