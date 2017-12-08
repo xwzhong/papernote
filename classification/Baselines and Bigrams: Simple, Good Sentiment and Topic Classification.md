@@ -9,7 +9,7 @@
 #### comment:
   1. 原文提出的改进方法简洁,而且运算速度快;
   2. Multinomial Naive Bayes (MNB)在scikit-learn中有实现;
-  3. 情感分类中,bigram比unigram好的原因: 在情感类文本中,往往会有否定词,eg:不/喜欢,此时bigram比unigram更能描述文本.
+  3. 情感分类中,bigram比unigram好的原因: 在情感类文本中,往往会有否定词,eg:不/喜欢,此时bigram比unigram更能描述文本,换句话讲:bigram学到部分语序信息.
   
 #### code:
   1. [作者提供的matlab代码](https://github.com/sidaw/nbsvm)
