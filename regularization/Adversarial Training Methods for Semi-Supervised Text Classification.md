@@ -16,3 +16,7 @@
 
 #### highlight:
 &emsp;&emsp;Adversarial training (Goodfellow et al., 2015) is a novel regularization method for classifiers to improve robustness to small, approximately **worst** case perturbations.
+
+
+### more reading:
+[note](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/adversarial-text-classification.md)
