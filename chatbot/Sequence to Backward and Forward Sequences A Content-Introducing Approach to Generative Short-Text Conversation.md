@@ -13,4 +13,5 @@
 4. 在train部分，不知道在选取word进行split部分，使用test/eval一样的选取方式效果会不会更好？
   
 #### more reading:
-&emsp;&emsp;<https://zhuanlan.zhihu.com/p/27275391>
+1. [教 Chatbot 生成更有营养的对话](https://zhuanlan.zhihu.com/p/27275391)
+2. [论文引介 | Sequence to Backward and Forward Sequences](http://chuansong.me/n/1613737151949)
