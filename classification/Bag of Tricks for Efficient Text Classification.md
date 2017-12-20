@@ -17,3 +17,6 @@
   1. we show that linear models with a rank constraint and a fast loss approximation can train on a billion words within ten minutes, while achieving performance on par with the state-of-the-art.(这里的rank constraint怎么理解??)
   2. However, linear classifiers do not share parameters among features and classes. This possibly limits their generalization in the context of large output space where some classes have very few examples(表明为什么类别多的问题能较好解决).
   3. On this task, adding bigram information improves the performance by 1-4%.
+
+#### more reading:
+&emsp;&emsp;[NLP︱高级词向量表达（二）——FastText（简述、学习笔记）](http://blog.csdn.net/sinat_26917383/article/details/54850933)
