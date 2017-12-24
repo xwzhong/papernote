@@ -25,6 +25,7 @@
 ## [embedding](https://github.com/xwzhong/papernote/tree/master/embedding)
 ### word embedding:
 * _2017.07_ A Simple Approach to Learn Polysemous Word Embeddings \[[arxiv](https://arxiv.org/pdf/1707.01793.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/A%20Simple%20Approach%20to%20Learn%20Polysemous%20Word%20Embeddings.md)\]
+* _2016.07_ Enriching Word Vectors with Subword Information \[[arxiv](https://arxiv.org/abs/1607.04606)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)\]
 * _2013.01_ Linguistic Regularities in Continuous Space Word Representations \[[aclweb](https://www.aclweb.org/anthology/N13-1090)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Linguistic%20Regularities%20in%20Continuous%20Space%20Word%20Representations.md)\]
 
 
