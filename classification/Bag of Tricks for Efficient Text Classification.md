@@ -11,7 +11,8 @@
 
   2. 能较好解决类别多的分类问题(实验测试了312k个类别的分类问题);
   3. 文章没有实验使用预先训练好的word embeddings,如果用了,效果可能会有提升;
-  4. 训练,测试速度相比CNN,RNN快几个量级.
+  4. 训练,测试速度相比CNN,RNN快几个量级;
+  5. fasttext库中,subword长度参数minn和maxn解释可见[链接](https://www.quora.com/How-does-fastText-output-a-vector-for-a-word-that-is-not-in-the-pre-trained-model)
 
 #### highlight:
   1. we show that linear models with a rank constraint and a fast loss approximation can train on a billion words within ten minutes, while achieving performance on par with the state-of-the-art.(这里的rank constraint怎么理解??)
