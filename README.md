@@ -11,6 +11,7 @@
 ### generation-based:
 * _2018.01_ From Eliza to XiaoIce: Challenges and Opportunities with Social Chatbots \[[arxiv](https://arxiv.org/abs/1801.01957)\]\[[translation](https://www.jiqizhixin.com/articles/2018-01-16-6)\]
 * _2017.11_ Neural Response Generation with Dynamic Vocabularies \[[arxiv](https://arxiv.org/abs/1711.11191)\][note]
+* _2017.07_ AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine \[[aclweb](http://www.aclweb.org/anthology/P17-2079)\]\[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/AliMe%20Chat:%20A%20Sequence%20to%20Sequence%20and%20Rerank%20based%20Chatbot%20Engine.md)\]
 * _2017.04_ Emotional Conversation Generation with Internal and External Memory \[[arxiv](https://arxiv.org/abs/1704.01074)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Emotional%20Chatting%20Machine%EF%BC%9AEmotional%20Conversation%20Generation%20with%20Internal%20and%20External%20Memory.md)\]
 * _2017.02_ A Knowledeg-Grounded Neural Conversation Model \[[arxiv](https://arxiv.org/abs/1702.01932v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/A%20Knowledeg-Grounded%20Neural%20Conversation%20Model.md)\]
 * _2017.01_ Generating Long and Diverse Responses with Neural Conversation Models \[[arxiv](https://arxiv.org/abs/1701.03185)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Generating%20Long%20and%20Diverse%20Responses%20with%20Neural%20Conversation%20Models.md)\]
