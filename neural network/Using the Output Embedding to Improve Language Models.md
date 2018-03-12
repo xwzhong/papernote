@@ -11,5 +11,7 @@
   3. 文章提出的思想不仅可以用于rnn结构的语言模型,也能用于类似rnn结构的其它模型中,在LSTM+CRF实体识别模型中,使用该技巧能提高0.01左右的F1 score;
   4. "Following (Zaremba et al., 2014), we employ two models: large and small. The large model employs dropout for regularization. The small model is not regularized." 个人对此持有异议:large相比于 small model有更强的表达能力,softmax能教容易的描述其特征,而small模型内部结构复杂,此时使用projection层相当于搭建lstm输出和softmax之间的桥梁.
 
-#### [code](https://github.com/ofirpress/UsingTheOutputEmbedding)
+#### more reading:
+&emsp;&emsp;[Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling](https://github.com/xwzhong/papernote/blob/master/neural%20network/Tying%20Word%20Vectors%20and%20Word%20Classifiers:%20A%20Loss%20Framework%20for%20Language%20Modeling.md)
 
+#### [code](https://github.com/ofirpress/UsingTheOutputEmbedding)
