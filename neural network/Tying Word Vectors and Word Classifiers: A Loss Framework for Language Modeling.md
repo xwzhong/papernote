@@ -9,4 +9,4 @@
 
 #### question:
   1. 为什么在计算式3.1和3.7时添加了'temperature'因子?
-  2. 为什么模型augment loss加入后对lstm+crf模型提升几乎为0?
+  2. 为什么模型augment loss加入后对lstm+crf模型提升几乎为0?
