@@ -8,4 +8,5 @@
   4. [图文解说及代码](https://github.com/icoxfog417/tying-wv-and-wc), [augment_loss计算](https://github.com/icoxfog417/tying-wv-and-wc/blob/master/model/augmented_model.py#L32).
 
 #### question:
-&emsp;&emsp;为什么在计算式3.1和3.7时添加了'temperature'因子?
+  1. 为什么在计算式3.1和3.7时添加了'temperature'因子?
+  2. 为什么模型augment loss加入后对lstm+crf模型提升几乎为0?
