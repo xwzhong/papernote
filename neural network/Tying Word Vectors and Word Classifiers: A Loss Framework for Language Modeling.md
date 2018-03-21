@@ -5,8 +5,7 @@
   1. 文章背后提出的逻辑有依据, 从最初的loss设计考虑分布出发,到推得input embedding和output projection相等的关系,逐步深入.同时,在该论文之前,已有[实验](https://github.com/xwzhong/papernote/blob/master/neural%20network/Using%20the%20Output%20Embedding%20to%20Improve%20Language%20Models.md)证明连接input embedding和output embedding能改进语言模型和翻译模型;
   2. 分布loss(文中也叫augment loss)结果的好坏很大程度上取决于预训练得到的word embedding质量,因作者假定word embedding为groundtruth, 由P去拟合Q;
   3. 式3.1和3.7使用softmax层进行归一化,目的是以词概率分布的角度来衡量分布差异;
-  4. 该策略用于lstm+crf实体识别模型时,模型波动性变大,效果提升不明显;
-  5. [图文解说及代码](https://github.com/icoxfog417/tying-wv-and-wc).
+  4. [图文解说及代码](https://github.com/icoxfog417/tying-wv-and-wc).
 
 #### question:
 &emsp;&emsp;为什么在计算式3.1和3.7时添加了'temperature'因子?
