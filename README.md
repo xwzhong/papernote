@@ -9,9 +9,9 @@
 * _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arxiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
 
 ### generation-based:
-* _2018.01_ From Eliza to XiaoIce: Challenges and Opportunities with Social Chatbots \[[arxiv](https://arxiv.org/abs/1801.01957)\]\[[translation](https://www.jiqizhixin.com/articles/2018-01-16-6)\]
-* _2017.11_ Neural Response Generation with Dynamic Vocabularies \[[arxiv](https://arxiv.org/abs/1711.11191)\][note]
-* _2017.07_ AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine \[[aclweb](http://www.aclweb.org/anthology/P17-2079)\]\[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/AliMe%20Chat:%20A%20Sequence%20to%20Sequence%20and%20Rerank%20based%20Chatbot%20Engine.md)\]
+* _2018.01_ From Eliza to XiaoIce: Challenges and Opportunities with Social Chatbots \[[arxiv](https://arxiv.org/abs/1801.01957)\] \[[translation](https://www.jiqizhixin.com/articles/2018-01-16-6)\]
+* _2017.11_ Neural Response Generation with Dynamic Vocabularies \[[arxiv](https://arxiv.org/abs/1711.11191)\] [note]
+* _2017.07_ AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine \[[aclweb](http://www.aclweb.org/anthology/P17-2079)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/AliMe%20Chat:%20A%20Sequence%20to%20Sequence%20and%20Rerank%20based%20Chatbot%20Engine.md)\]
 * _2017.04_ Emotional Conversation Generation with Internal and External Memory \[[arxiv](https://arxiv.org/abs/1704.01074)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Emotional%20Chatting%20Machine%EF%BC%9AEmotional%20Conversation%20Generation%20with%20Internal%20and%20External%20Memory.md)\]
 * _2017.02_ A Knowledeg-Grounded Neural Conversation Model \[[arxiv](https://arxiv.org/abs/1702.01932v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/A%20Knowledeg-Grounded%20Neural%20Conversation%20Model.md)\]
 * _2017.01_ Generating Long and Diverse Responses with Neural Conversation Models \[[arxiv](https://arxiv.org/abs/1701.03185)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Generating%20Long%20and%20Diverse%20Responses%20with%20Neural%20Conversation%20Models.md)\]
@@ -61,9 +61,9 @@
 * _2016.11_ Understanding Deep Learning Requires Rethinking Generalization \[[arxiv](https://arxiv.org/abs/1611.03530)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Understanding%20Deep%20Learning%20Requires%20Rethinking%20Generalization.md)\]
 * _2016.09_ An overview of gradient descent optimization algorithms \[[arxiv](https://arxiv.org/abs/1609.04747)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/An%20overview%20of%20gradient%20descent%20optimization%20algorithms.md)\]
 * _2016.08_ Using the Output Embedding to Improve Language Models \[[arxiv](https://arxiv.org/abs/1608.05859)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Using%20the%20Output%20Embedding%20to%20Improve%20Language%20Models.md)\]
-* _2016.03_ Recurrent Dropout without Memory Loss \[[arxiv](https://arxiv.org/abs/1603.05118)\]\[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Recurrent%20Dropout%20without%20Memory%20Loss.md)\]
-* _2015.11_ Adding Gradient Noise Improves Learning for Very Deep Networks \[[arxiv](https://arxiv.org/abs/1511.06807)\]\[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Adding%20Gradient%20Noise%20Improves%20Learning%20for%20Very%20Deep%20Networks.md)\]
-* _2015.06_ Visualizing and Understanding Recurrent Networks \[[arxiv](https://arxiv.org/abs/1506.02078)\]\[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Visualizing%20and%20Understanding%20Recurrent%20Networks.md)\]
+* _2016.03_ Recurrent Dropout without Memory Loss \[[arxiv](https://arxiv.org/abs/1603.05118)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Recurrent%20Dropout%20without%20Memory%20Loss.md)\]
+* _2015.11_ Adding Gradient Noise Improves Learning for Very Deep Networks \[[arxiv](https://arxiv.org/abs/1511.06807)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Adding%20Gradient%20Noise%20Improves%20Learning%20for%20Very%20Deep%20Networks.md)\]
+* _2015.06_ Visualizing and Understanding Recurrent Networks \[[arxiv](https://arxiv.org/abs/1506.02078)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Visualizing%20and%20Understanding%20Recurrent%20Networks.md)\]
 * _unknown_ Calculus on Computational Graphs: Backpropagation \[[github](http://colah.github.io/posts/2015-08-Backprop/)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Calculus%20on%20Computational%20Graphs:%20Backpropagation.md)\]
 * _2014.12_ Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling \[[arxiv](https://arxiv.org/pdf/1412.3555)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling.md)\]
 * _2014.09_ Recurrent Neural Network Regularization \[[arxiv](https://arxiv.org/pdf/1409.2329.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Recurrent%20Neural%20Network%20Regularization.md)\]
@@ -88,3 +88,6 @@
 
 ## [information retrieval](https://github.com/xwzhong/papernote/tree/master/information%20retrieval)
 * _2005.08_ Personalizing Search via Automated Analysis of Interests and Activities \[[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigir05.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/information%20retrieval/Personalizing%20Search%20via%20Automated%20Analysis%20of%20Interests%20and%20Activities.md)\]
+
+## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
+* _2016.03_ Neural Architectures for Named Entity Recognition \[[arxiv](https://arxiv.org/abs/1603.01360)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)\]
