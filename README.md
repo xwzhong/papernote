@@ -21,7 +21,7 @@
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arxiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
 ## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
-* _2016.xx_ Attention-based LSTM for Aspect-level Sentiment Classification \[[aclweb](https://aclweb.org/anthology/D16-1058)\] \[[note](https://zhuanlan.zhihu.com/p/23615176)\]
+* _2016.xx_ Attention-based LSTM for Aspect-level Sentiment Classification \[[aclweb](https://aclweb.org/anthology/D16-1058)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Attention-based%20LSTM%20for%20Aspect-level%20Sentiment%20Classification.md)\]
 * _2016.07_ Bag of Tricks for Efficient Text Classification(fasttext) \[[arxiv](https://arxiv.org/abs/1607.01759)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.md)\]
 * _2014.08_ Convolutional Neural Networks for Sentence Classification \[[aclweb](http://www.aclweb.org/anthology/D14-1181)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.md)\]
 * _2012.07_ Baselines and Bigrams: Simple, Good Sentiment and Topic Classification \[[aclweb](https://www.aclweb.org/anthology/P12-2018)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Baselines%20and%20Bigrams:%20Simple%2C%20Good%20Sentiment%20and%20Topic%20Classification.md)\]
