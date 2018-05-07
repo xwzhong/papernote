@@ -2,7 +2,7 @@
 
 #### note:
 &emsp;&emsp;paper把resp的emotion信息embed到一个高维的向量，提出了三种不同的方法来deploy这向量：
-1. emotion category embedding。计算resp的情绪类别，并将该类别转为高维向量v跟decoder部分的word embedding放在同一级嵌入到seq2seq中；
+1. emotion category embedding。计算resp的情绪类别，并将该类别转为指定维度向量v跟decoder部分的word embedding放在同一级嵌入到seq2seq中；
 2. internal memory。将1得到的情绪向量v在生成时逐步递减，最后降为0；
 3. external memory。将decoder部分的词典分为不相交的通用和情绪词典，根据预先计算的情绪显示控制每个step输出的word。
 
@@ -14,3 +14,5 @@
 
 #### more reading:
 <https://610300.kuaizhan.com/5/82/p426375651610fb>
+
+#### [code](https://github.com/loadder/ECM-tf)
