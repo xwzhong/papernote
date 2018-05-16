@@ -9,6 +9,7 @@
 * _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arxiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
 
 ### generation-based:
+* _2018.04_ Chat More: Deepening and Widening the Chatting Topic via A Deep Model \[[paper](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Chat%20More:%20Deepening%20and%20Widening%20the%20Chatting%20Topic%20via%20A%20Deep%20Model.md)\]
 * _2018.01_ From Eliza to XiaoIce: Challenges and Opportunities with Social Chatbots \[[arxiv](https://arxiv.org/abs/1801.01957)\] \[[translation](https://www.jiqizhixin.com/articles/2018-01-16-6)\]
 * _2017.11_ Neural Response Generation with Dynamic Vocabularies \[[arxiv](https://arxiv.org/abs/1711.11191)\] [note]
 * _2017.07_ AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine \[[aclweb](http://www.aclweb.org/anthology/P17-2079)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/AliMe%20Chat:%20A%20Sequence%20to%20Sequence%20and%20Rerank%20based%20Chatbot%20Engine.md)\]
