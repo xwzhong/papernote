@@ -26,7 +26,7 @@
   + c. 词级别.
 
 ##### 4. batch size
-&emsp;&emsp;该模型偏向于使用较小的batch size, batch size大虽然能加快模型的收敛, 但最终F1值却下降, 可见同个batch的样本彼此之间应该有较大的影响, 可考虑使用较小的batch size或使用normalization策略降低同个batch样本之间的互相影响.
+&emsp;&emsp;该模型偏向于使用较小的batch size, batch size大虽然能加快模型的收敛, 但最终F1值却下降, 可见同个batch的样本彼此之间应该有较大的影响, 可考虑使用较小的batch size或使用normalization策略降低同个batch样本之间的互相影响.(更多解释见"[当前关注点：批量大小、学习率、泛化性能下降](https://www.jiqizhixin.com/articles/051303)"部分)
 
 ##### 5. projection layer
 &emsp;&emsp;在biLSTM output到softmax之间添加前馈神经网络;
