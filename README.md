@@ -77,11 +77,9 @@
 * _2017.04_ Learning to Skim Text \[[arxiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Learning%20to%20Skim%20Text.md)\]
 * _2015.06_ Skip-Thought Vectors \[[arxiv](https://arxiv.org/abs/1506.06726)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Skip-Thought%20Vectors.md)\]
 * _2014.12_ Grammar as a Foreign Language \[[arxiv](https://arxiv.org/abs/1412.7449)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Grammar%20as%20a%20Foreign%20Language.md)\]
-
-## [translation](https://github.com/xwzhong/papernote/tree/master/translation)
-* _2014.12_ On Using Very Large Target Vocabulary for Neural Machine Translation \[[arxiv](https://arxiv.org/abs/1412.2007v2)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md)\]
-* _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arxiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
-* _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arxiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/translation/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
+* _2014.12_ On Using Very Large Target Vocabulary for Neural Machine Translation \[[arxiv](https://arxiv.org/abs/1412.2007v2)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md)\]
+* _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arxiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
+* _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arxiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
 
 ## [reading comprehension](https://github.com/xwzhong/papernote/tree/master/reading%20comprehension)
 * _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arxiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
