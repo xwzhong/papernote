@@ -36,7 +36,7 @@
 
 
 ### sentence embedding:
-* _2017.05_ Supervised Learning of Universal Sentence Representations from Natural Language Inference Data \[[arxiv](https://arxiv.org/abs/1705.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)\]
+* _2017.05_ Supervised Learning of Universal Sentence Representations from NLI Data \[[arxiv](https://arxiv.org/abs/1705.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)\]
 * _2016.05_ Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention \[[arxiv](https://arxiv.org/abs/1605.09090v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Learning%20Natural%20Language%20Inference%20using%20Bidirectional%20LSTM%20model%20and%20Inner-Attention.md)\]
 * _2016.11_ A Simple But Tough to Beat Baseline for Sentence Embeddings \[[openreview](https://openreview.net/pdf?id=SyK00v5xx)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/A%20Simple%20But%20Tough%20to%20Beat%20Baseline%20for%20Sentence%20Embeddings.md)\]
 * _2015.12_ Learning Semantic Similarity for Very Short Texts \[[arxiv](https://arxiv.org/abs/1512.00765)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Learning%20Semantic%20Similarity%20for%20Very%20Short%20Texts.md)\]
