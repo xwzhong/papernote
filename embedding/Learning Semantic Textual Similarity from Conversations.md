@@ -20,4 +20,4 @@
   4. 在句子相似度匹配上，半监督学习或许是不错的思路。首先使用大语料训练一个无监督模型，然后再设计有监督的模型（该模型可能和无监督模型一样，也可能不一样），利用极少的数据微调模型，主要是考虑到有标注数据的缺失，同时利用领域相近的数据一般能学到相似的知识，[Learning to Generate Reviews and Discovering Sentiment](https://github.com/xwzhong/papernote/blob/master/neural%20network/Learning%20to%20Generate%20Reviews%20and%20Discovering%20Sentiment.md)就是一个例子。
 
 #### more:
-  [Learning Semantic Textual Similarity from Conversations 论文实现](https://blog.csdn.net/sinat_30665603/article/details/80174128)
+　　[Learning Semantic Textual Similarity from Conversations 论文实现](https://blog.csdn.net/sinat_30665603/article/details/80174128)
