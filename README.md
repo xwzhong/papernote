@@ -46,6 +46,7 @@
 * _2015.11_ Order-Embeddings of Images and Language \[[arxiv](https://arxiv.org/pdf/1511.06361.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Order-Embeddings%20of%20Images%20and%20Language.md)\]
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
+* _2018.05_ How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift) \[[arxiv](https://arxiv.org/abs/1805.11604)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20Does%20Batch%20Normalization%20Help%20Optimization%3F%20(No%2C%20It%20Is%20Not%20About%20Internal%20Covariate%20Shift)%20.md)\]
 * _2017.02_ Batch Renormalization \[[arxiv](https://arxiv.org/abs/1702.03275)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Batch%20Renormalization:%20Towards%20Reducing%20Minibatch%20Dependence%20in%20Batch-Normalized%20Models.md)\]
 * _2016.07_ Layer Normalization \[[arxiv](https://arxiv.org/abs/1607.06450)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Layer%20Normalization.md)\]
 * _2016.05_ Adversarial Training Methods for Semi-Supervised Text Classification \[[arxiv](https://arxiv.org/abs/1605.07725)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Adversarial%20Training%20Methods%20for%20Semi-Supervised%20Text%20Classification.md)\]
