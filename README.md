@@ -56,6 +56,7 @@
 * _2015.07_ Distributional Smoothing with Virtual Adversarial Training \[[arxiv](https://arxiv.org/abs/1507.00677)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Distributional%20Smoothing%20with%20Virtual%20Adversarial%20Training.md)\]
 * _2015.02_ Batch Normalization \[[arxiv](https://arxiv.org/pdf/1502.03167.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Batch%20Normalization:%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.md)\]
 * _2014.12_ Explaining and Harnessing Adversarial Examples \[[arxiv](https://arxiv.org/abs/1412.6572v3)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Explaining%20and%20Harnessing%20Adversarial%20Examples.md)\]
+* _2013.06_ Regularization of Neural Networks using DropConnect \[[paper](https://cs.nyu.edu/~wanli/dropc/dropc.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Regularization%20of%20Neural%20Networks%20using%20DropConnect.md)\]
 * _2009.06_ Curriculum Learning \[[collobert](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/curriculum%20learning.md)\]
 
 ## [neural network](https://github.com/xwzhong/papernote/tree/master/neural%20network/)
