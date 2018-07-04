@@ -97,3 +97,4 @@
 
 ## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
 * _2016.03_ Neural Architectures for Named Entity Recognition \[[arxiv](https://arxiv.org/abs/1603.01360)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)\]
+* _2016.xx_ Neural Architectures for Named Entity Recognition \[[aclweb](https://www.aclweb.org/anthology/E17-1119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Fine-grained%20Entity%20Type%20Classification.md)\]
