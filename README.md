@@ -96,5 +96,6 @@
 * _2005.08_ Personalizing Search via Automated Analysis of Interests and Activities \[[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigir05.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/information%20retrieval/Personalizing%20Search%20via%20Automated%20Analysis%20of%20Interests%20and%20Activities.md)\]
 
 ## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
+* _2018.03_ Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss \[[arxiv](https://arxiv.org/pdf/1803.03378.pdf)\] \[note\]
 * _2016.03_ Neural Architectures for Named Entity Recognition \[[arxiv](https://arxiv.org/abs/1603.01360)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)\]
 * _2016.xx_ Neural Architectures for Fine-grained Entity Type Classification \[[aclweb](https://www.aclweb.org/anthology/E17-1119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Fine-grained%20Entity%20Type%20Classification.md)\]
