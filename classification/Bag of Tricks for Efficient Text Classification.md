@@ -22,3 +22,5 @@
   1. [NLP︱高级词向量表达（二）——FastText（简述、学习笔记）](http://blog.csdn.net/sinat_26917383/article/details/54850933)
   2. [fastText 源码分析](https://heleifz.github.io/14732610572844.html)
   3. [fastText库讲解](https://www.quora.com/How-does-fastText-output-a-vector-for-a-word-that-is-not-in-the-pre-trained-model)
+  4. [all kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification)
+  
