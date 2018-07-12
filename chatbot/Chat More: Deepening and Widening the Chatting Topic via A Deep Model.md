@@ -4,9 +4,10 @@
   2. global channel。用GRU对句子信息进行编码，得到所有词的高维输出；
   3. deep channel。从context keyword到deeper keyword过程，用了MLP组件计算context keyword各个词的权重；
   4. wide channel。用attention based RNN结合global channel信息+context keyword来预测wider keyword。
-
+  
 #### comment:
-　　paper提出的方法过于依赖关键词，在实验部分，也是根据关键词进行了筛选（在response中至少包含大于某阈值的两个keyword）。
+  1. paper提出的方法过于依赖关键词，在实验部分，也是根据关键词进行了筛选（在response中至少包含大于某阈值的两个keyword）;
+  2. post加入resp keyword训练，进行rerank时通用性回复score仍然较低，比较合理的方式可能是限制性条件下定向选取。
 
 #### more:
   1. [通过深度模型加深和拓宽聊天话题，让你与机器多聊两句](https://www.jiqizhixin.com/articles/2018-04-24-4)
