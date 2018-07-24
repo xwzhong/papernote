@@ -81,6 +81,7 @@
 
 ## [sequence to sequence](https://github.com/xwzhong/papernote/tree/master/sequence%20to%20sequence/)
 * _2017.04_ Learning to Skim Text \[[arxiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Learning%20to%20Skim%20Text.md)\]
+* _2015.06_ Pointer Networks \[[arxiv](https://arxiv.org/abs/1506.03134)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Pointer%20Networks.md)\]
 * _2015.06_ Skip-Thought Vectors \[[arxiv](https://arxiv.org/abs/1506.06726)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Skip-Thought%20Vectors.md)\]
 * _2014.12_ Grammar as a Foreign Language \[[arxiv](https://arxiv.org/abs/1412.7449)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Grammar%20as%20a%20Foreign%20Language.md)\]
 * _2014.12_ On Using Very Large Target Vocabulary for Neural Machine Translation \[[arxiv](https://arxiv.org/abs/1412.2007v2)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md)\]
