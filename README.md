@@ -24,6 +24,7 @@
 ## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
 * _2016.xx_ Attention-based LSTM for Aspect-level Sentiment Classification \[[aclweb](https://aclweb.org/anthology/D16-1058)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Attention-based%20LSTM%20for%20Aspect-level%20Sentiment%20Classification.md)\]
 * _2016.07_ Bag of Tricks for Efficient Text Classification(fasttext) \[[arxiv](https://arxiv.org/abs/1607.01759)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.md)\]
+* _2016.03_ Sequential Short-Text Classification with Recurrent and Convolutional Neural Networks \[[arxiv](https://arxiv.org/abs/1603.03827)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Sequential%20Short-Text%20Classification%20with%20Recurrent%20and%20Convolutional%20Neural%20Networks.md)\]
 * _2014.08_ Convolutional Neural Networks for Sentence Classification \[[aclweb](http://www.aclweb.org/anthology/D14-1181)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.md)\]
 * _2012.07_ Baselines and Bigrams: Simple, Good Sentiment and Topic Classification \[[aclweb](https://www.aclweb.org/anthology/P12-2018)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Baselines%20and%20Bigrams:%20Simple%2C%20Good%20Sentiment%20and%20Topic%20Classification.md)\]
 
@@ -60,6 +61,7 @@
 * _2009.06_ Curriculum Learning \[[collobert](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/curriculum%20learning.md)\]
 
 ## [neural network](https://github.com/xwzhong/papernote/tree/master/neural%20network/)
+* _2017.11_ Attentive Language Models \[[aclweb](http://www.aclweb.org/anthology/I17-1045)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Attentive%20Language%20Models.md)\]
 * _2017.04_ Learning to Generate Reviews and Discovering Sentiment \[[arxiv](http://de.arxiv.org/pdf/1704.01444)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Learning%20to%20Generate%20Reviews%20and%20Discovering%20Sentiment.md)\]
 * _2017.04_ Exploring Sparsity in Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1704.05119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Exploring%20Sparsity%20in%20Recurrent%20Neural%20Networks.md)\]
 * _2017.02_ Deep Nets Don't Learn Via Memorization \[[openreview](https://openreview.net/pdf?id=rJv6ZgHYg)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Deep%20Nets%20Don't%20Learn%20Via%20Memorization.md)\]
