@@ -1,5 +1,5 @@
 #### note:
-　　作者提出了[Pointer Networks](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Pointer%20Networks.md)的一种变体。pointer networks仅能使用input text中的词，针对rare word和long-term dependecies，作者提出的pointer sentinel mixture models能结合此前的input和unseen word。主要步骤如下（文中用于语言模型）：
+　　作者提出了[Pointer Networks](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Pointer%20Networks.md)的一种变体。pointer networks仅能使用input text中的词，针对rare word和long-term dependecies，作者提出的pointer sentinel mixture models能结合此前的input和unseen word（相对于input来说的，而不是常指的OOV）。主要步骤如下（文中用于语言模型）：
   1. 使用rnn对句子进行编码，得到前N-1个词的hidden state；
   2. 将第N-1个词的hidden state映射到同hidden size的维度（式2），得到q；
   3. 计算q与前N-1个词的内积（式3），同时计算参数g（由参数s与q计算内积得到），concate两者后进行softmax映射（式7），得到a;
