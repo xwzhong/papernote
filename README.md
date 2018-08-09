@@ -30,6 +30,7 @@
 
 ## [embedding](https://github.com/xwzhong/papernote/tree/master/embedding)
 ### word embedding:
+* _2018.02_ Deep contextualized word representations \[[arxiv](https://arxiv.org/abs/1802.05365)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Deep%20contextualized%20word%20representations.md)\]
 * _2017.12_ Advances in Pre-Training Distributed Word Representations \[[arxiv](https://arxiv.org/abs/1712.09405)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Advances%20in%20Pre-Training%20Distributed%20Word%20Representations.md)\]
 * _2017.07_ A Simple Approach to Learn Polysemous Word Embeddings \[[arxiv](https://arxiv.org/pdf/1707.01793.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/A%20Simple%20Approach%20to%20Learn%20Polysemous%20Word%20Embeddings.md)\]
 * _2016.07_ Enriching Word Vectors with Subword Information \[[arxiv](https://arxiv.org/abs/1607.04606)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)\]
