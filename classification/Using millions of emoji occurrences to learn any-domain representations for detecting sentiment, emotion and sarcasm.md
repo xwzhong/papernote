@@ -6,7 +6,7 @@
 
 #### comment:
   1. 模型效果好的原因探索：
-  + a. pretrain数据量大。64 emoji就有12.4亿数据量，单个emoji数据量至少510w+；
+  + a. pretrain数据量大。64 emoji就有12.4亿数据量，单个emoji数据量最少为510w+，最多为2.3亿，相差40+倍（为了平衡数据需要做平衡操作-文章使用了upsampling）；
   + b. 模型结构设计。使用了attention机制和skip connection策略，在transfer learning时，使用了chain thaw策略，该方法在NER中也能提升1%的F1值。
   2. paper中绘制的fig6有很大用处：
   + a. 使用无监督方式自动区分情感类别；
@@ -20,3 +20,5 @@
   2. [code](https://github.com/bfelbo/deepmoji)
   3. [pretrain的结果体验](http://deepmoji.mit.edu)
   4. [SciPy Hierarchical Clustering and Dendrogram Tutorial](https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/#Perform-the-Hierarchical-Clustering)
+  5. [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
+  
