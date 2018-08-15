@@ -6,7 +6,7 @@
 
 #### comment:
   1. 模型效果好的原因探索：
-  + a. pretrain数据量大。64 emoji就有12.4亿数据量；
+  + a. pretrain数据量大。64 emoji就有12.4亿数据量，单个emoji数据量至少510w+；
   + b. 模型结构设计。使用了attention机制和skip connection策略，在transfer learning时，使用了chain thaw策略，该方法在NER中也能提升1%的F1值。
   2. paper中绘制的fig6有很大用处：
   + a. 使用无监督方式自动区分情感类别；
