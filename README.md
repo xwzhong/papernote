@@ -84,6 +84,7 @@
 * _2010.xx_ Understanding the difficulty of training deep feedforward neural networks \[[imag](http://www-prima.imag.fr/jlc/Courses/2016/PRML/XavierInitialisation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.md)\]
 
 ## [sequence to sequence](https://github.com/xwzhong/papernote/tree/master/sequence%20to%20sequence/)
+* _2018.07_ Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding \[[arxiv](https://arxiv.org/abs/1807.01554)\] \[[translation](https://www.jiqizhixin.com/articles/2018-08-20-8)\]
 * _2018.07_ Fluency Boost Learning and Inference for Neural Grammatical Error Correction \[[aclweb](http://aclweb.org/anthology/P18-1097)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Fluency%20Boost%20Learning%20and%20Inference%20for%20Neural%20Grammatical%20Error%20Correction.md)\]
 * _2017.04_ Get To The Point: Summarization with Pointer-Generator Networks \[[arxiv](https://arxiv.org/abs/1704.04368)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Get%20To%20The%20Point:%20Summarization%20with%20Pointer-Generator%20Networks.md)\]
 * _2017.04_ Learning to Skim Text \[[arxiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Learning%20to%20Skim%20Text.md)\]
