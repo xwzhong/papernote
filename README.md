@@ -69,6 +69,7 @@
 
 ## [neural network](https://github.com/xwzhong/papernote/tree/master/neural%20network/)
 * _2017.11_ Attentive Language Models \[[aclweb](http://www.aclweb.org/anthology/I17-1045)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Attentive%20Language%20Models.md)\]
+* _2017.04_ Contextual Bidirectional Long Short-Term Memory Recurrent Neural Network Language Models \[[aclweb](http://www.aclweb.org/anthology/E17-1096)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Contextual%20Bidirectional%20Long%20Short-Term%20Memory%20Recurrent%20Neural%20Network%20Language%20Models:%20A%20Generative%20Approach%20to%20Sentiment%20Analysis.md)\]
 * _2017.04_ Learning to Generate Reviews and Discovering Sentiment \[[arxiv](http://de.arxiv.org/pdf/1704.01444)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Learning%20to%20Generate%20Reviews%20and%20Discovering%20Sentiment.md)\]
 * _2017.04_ Exploring Sparsity in Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1704.05119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Exploring%20Sparsity%20in%20Recurrent%20Neural%20Networks.md)\]
 * _2017.02_ Deep Nets Don't Learn Via Memorization \[[openreview](https://openreview.net/pdf?id=rJv6ZgHYg)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Deep%20Nets%20Don't%20Learn%20Via%20Memorization.md)\]
