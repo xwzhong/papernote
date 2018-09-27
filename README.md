@@ -25,6 +25,7 @@
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arxiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
 ## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
+* _2018.06_ SGM: Sequence Generation Model for Multi-Label Classification \[[arxiv](https://arxiv.org/abs/1806.04822)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/SGM:%20Sequence%20Generation%20Model%20for%20Multi-Label%20Classification.md)\]
 * _2017.08_ Using millions of emoji occurrences to learn any-domain representations for ... \[[aclweb](http://aclweb.org/anthology/D17-1169)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Using%20millions%20of%20emoji%20occurrences%20to%20learn%20any-domain%20representations%20for%20detecting%20sentiment%2C%20emotion%20and%20sarcasm.md)\]
 * _2016.xx_ Attention-based LSTM for Aspect-level Sentiment Classification \[[aclweb](https://aclweb.org/anthology/D16-1058)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Attention-based%20LSTM%20for%20Aspect-level%20Sentiment%20Classification.md)\]
 * _2016.07_ Bag of Tricks for Efficient Text Classification(fasttext) \[[arxiv](https://arxiv.org/abs/1607.01759)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.md)\]
