@@ -55,6 +55,7 @@
 * _2015.11_ Order-Embeddings of Images and Language \[[arxiv](https://arxiv.org/pdf/1511.06361.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Order-Embeddings%20of%20Images%20and%20Language.md)\]
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
+* _2018.08_ Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning \[[arxiv](https://arxiv.org/abs/1808.03578)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Dropout%20is%20a%20special%20case%20of%20the%20stochastic%20delta%20rule:%20faster%20and%20more%20accurate%20deep%20learning.md)\]
 * _2018.05_ How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift) \[[arxiv](https://arxiv.org/abs/1805.11604)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20Does%20Batch%20Normalization%20Help%20Optimization%3F%20(No%2C%20It%20Is%20Not%20About%20Internal%20Covariate%20Shift)%20.md)\]
 * _2017.02_ Batch Renormalization \[[arxiv](https://arxiv.org/abs/1702.03275)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Batch%20Renormalization:%20Towards%20Reducing%20Minibatch%20Dependence%20in%20Batch-Normalized%20Models.md)\]
 * _2016.07_ Layer Normalization \[[arxiv](https://arxiv.org/abs/1607.06450)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Layer%20Normalization.md)\]
@@ -69,7 +70,6 @@
 * _2009.06_ Curriculum Learning \[[collobert](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/curriculum%20learning.md)\]
 
 ## [neural network](https://github.com/xwzhong/papernote/tree/master/neural%20network/)
-* _2018.08_ Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning \[[arxiv](https://arxiv.org/abs/1808.03578)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Dropout%20is%20a%20special%20case%20of%20the%20stochastic%20delta%20rule:%20faster%20and%20more%20accurate%20deep%20learning.md)\]
 * _2017.11_ Attentive Language Models \[[aclweb](http://www.aclweb.org/anthology/I17-1045)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Attentive%20Language%20Models.md)\]
 * _2017.04_ Contextual Bidirectional Long Short-Term Memory Recurrent Neural Network Language Models \[[aclweb](http://www.aclweb.org/anthology/E17-1096)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Contextual%20Bidirectional%20Long%20Short-Term%20Memory%20Recurrent%20Neural%20Network%20Language%20Models:%20A%20Generative%20Approach%20to%20Sentiment%20Analysis.md)\]
 * _2017.04_ Learning to Generate Reviews and Discovering Sentiment \[[arxiv](http://de.arxiv.org/pdf/1704.01444)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Learning%20to%20Generate%20Reviews%20and%20Discovering%20Sentiment.md)\]
