@@ -6,8 +6,9 @@
   1. 使用word embedding。原因在于离散变量难以实现无穷小的计算，而连续型变量，每增加一点都是有意义的。
   2. 根据词频进行标准化。类似与z-score。
   3. 引入perturbation（干扰项）——adversarial training和virtual adversarial training。
-    + a. adv的思想：使用loss来计算embedding接下来最可能的变化方向；
-    + b. vat的思想：尽可能使model的分界面光滑。
+  
+   + a. adv的思想：使用loss来计算embedding接下来最可能的变化方向；
+   + b. vat的思想：尽可能使model的分界面光滑。
 
 #### comment:
   1. 步骤2中进行了标准化操作，其中一点是考虑了参数初始化的影响——embedding的某些元素可能特别大，而激活函数的值域一般是(-1, 1)或(0, 1), 为了加快收敛，会尽可能将初始化参数后的激活值限定在中间部分（0或0.5)。
