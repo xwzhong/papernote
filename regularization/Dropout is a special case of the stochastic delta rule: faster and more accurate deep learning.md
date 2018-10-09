@@ -12,7 +12,7 @@
   1. 本文是缓解“过拟合”难得的好文，从理论上看有依据，同时从实验的准确率看表现异常好；
   2. 从论文分析可知，其假定每个神经元服从同样的分布，个人认为这是收敛速度加快的主要原因，同分布减小了参数的搜索空间；
   3. SDR也有点类似于[adversarial training](https://github.com/xwzhong/papernote/blob/master/regularization/Explaining%20and%20Harnessing%20Adversarial%20Examples.md)，SDR是将梯度反馈到参数上，对参数进行一定范围的随机，而adversarial training则是将梯度反馈到输入的样本特征中，对样本本身引入额外因子；
-  4. 使用SDR需额外一倍的内存（显存），用于保存每个trainable参数的方差；
+  4. 使用SDR约需额外一倍的内存（显存），用于保存梯度不为None的trainable参数的方差；
   5. 文章虽然指出，达到相同准确率时SDR模型不需要过多的epoch，但是每个epoch的计算量应该比基本模型高一倍左右（需要进行额外一次的反向梯度计算）。
 
 #### more:
