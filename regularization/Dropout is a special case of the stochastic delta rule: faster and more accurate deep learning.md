@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;相比dropout，stochastic delta rule的分布参数不固定，SDR adaptively updates the random variable parameters for subsequent sampling and Dropout samples from a Binomial random variable with fixed parameters (mean, standard deviation at p)，在实现时大致步骤如下：
   + a. 初始化每个参数方差为0，（此后更新时，以当前loss反向计算的梯度进行更新）；
-  + b. 对于当前参数，以其当前值和参数方差进行取样，取样后的值即为更新后的参数值。
+  + b. 对于当前参数，以其当前值(作为正态分布均值）和参数方差（作为正太分布方差）进行取样，取样后的值即为更新后的参数值。
 
 #### comment：
   1. 本文是缓解“过拟合”难得的好文，从理论上看有依据，同时从实验的准确率看表现异常好；
