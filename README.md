@@ -1,5 +1,6 @@
 ## [qa & chatbot](https://github.com/xwzhong/papernote/tree/master/chatbot)
 ### retrieval-based ([leaderboard](https://github.com/xwzhong/papernote/blob/master/chatbot/README.md)):
+* _2018.06_ Modeling Multi-turn Conversation with Deep Utterance Aggregation \[[arxiv](https://arxiv.org/abs/1806.09102)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Modeling%20Multi-turn%20Conversation%20with%20Deep%20Utterance%20Aggregation.md)\]
 * _2017.11_ A Survey on Dialogue Systems: Recent Advances and New Frontiers \[[arxiv](https://arxiv.org/abs/1711.01731)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/A%20Survey%20on%20Dialogue%20Systems:%20Recent%20Advances%20and%20New%20Frontiers.md)\]
 * _2017.05_ IRGAN \[[arxiv](https://arxiv.org/abs/1705.10513)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/IRGAN%EF%BC%9AA%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieval%20Models.md)\]
 * _2017.02_ Bilateral Multi-Perspective Matching for Natural Language Sentences \[[arxiv](https://arxiv.org/abs/1702.03814v3)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Bilateral%20Multi-Perspective%20Matching%20for%20Natural%20Language%20Sentences.md)\]
