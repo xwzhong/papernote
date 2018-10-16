@@ -46,7 +46,6 @@
 
 
 ### sentence embedding:
-* _2018.10_ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding \[[arxiv](https://arxiv.org/abs/1810.04805)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/BERT:%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.md)\]
 * _2018.05_ Baseline Needs More Love: On Simple Word-Embedding-Based Models and ... \[[arxiv](https://arxiv.org/abs/1805.09843)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Baseline%20Needs%20More%20Love:%20On%20Simple%20Word-Embedding-Based%20Models%20and%20Associated%20Pooling%20Mechanisms.md)\]
 * _2018.04_ Learning Semantic Textual Similarity from Conversations \[[arxiv](https://arxiv.org/abs/1804.07754)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Learning%20Semantic%20Textual%20Similarity%20from%20Conversations.md)\]
 * _2017.05_ Supervised Learning of Universal Sentence Representations from NLI Data \[[arxiv](https://arxiv.org/abs/1705.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)\]
@@ -92,6 +91,11 @@
 * _2014.09_ Recurrent Neural Network Regularization \[[arxiv](https://arxiv.org/pdf/1409.2329.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Recurrent%20Neural%20Network%20Regularization.md)\]
 * _2013.12_ How to Construct Deep Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1312.6026)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.md)\]
 * _2010.xx_ Understanding the difficulty of training deep feedforward neural networks \[[imag](http://www-prima.imag.fr/jlc/Courses/2016/PRML/XavierInitialisation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.md)\]
+
+
+## [transformer](https://github.com/xwzhong/papernote/tree/master/transformer/)
+* _2018.10_ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding \[[arxiv](https://arxiv.org/abs/1810.04805)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/BERT:%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.md)\]
+* _2017.06_ Attention is All You Need \[[arxiv](https://arxiv.org/abs/1706.03762)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Attention%20is%20All%20You%20Need.md)\]
 
 ## [sequence to sequence](https://github.com/xwzhong/papernote/tree/master/sequence%20to%20sequence/)
 * _2018.07_ Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding \[[arxiv](https://arxiv.org/abs/1807.01554)\] \[[translation](https://www.jiqizhixin.com/articles/2018-08-20-8)\]
