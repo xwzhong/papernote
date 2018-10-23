@@ -92,9 +92,9 @@
 * _2013.12_ How to Construct Deep Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1312.6026)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.md)\]
 * _2010.xx_ Understanding the difficulty of training deep feedforward neural networks \[[imag](http://www-prima.imag.fr/jlc/Courses/2016/PRML/XavierInitialisation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.md)\]
 
-
 ## [transformer](https://github.com/xwzhong/papernote/tree/master/transformer/)
 * _2018.10_ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding \[[arxiv](https://arxiv.org/abs/1810.04805)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/BERT:%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.md)\]
+* _2018.06_ Improving Language Understanding by Generative Pre-Training \[[amazonaws](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Improving%20Language%20Understanding%20by%20Generative%20Pre-Training.md)\]
 * _2017.06_ Attention is All You Need \[[arxiv](https://arxiv.org/abs/1706.03762)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Attention%20is%20All%20You%20Need.md)\]
 
 ## [sequence to sequence](https://github.com/xwzhong/papernote/tree/master/sequence%20to%20sequence/)
@@ -120,5 +120,6 @@
 
 ## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
 * _2018.03_ Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss \[[arxiv](https://arxiv.org/pdf/1803.03378.pdf)\] \[note\]
+* _2017.04_ Semi-supervised Multitask Learning for Sequence Labeling \[[arxiv](https://arxiv.org/abs/1704.07156)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Semi-supervised%20Multitask%20Learning%20for%20Sequence%20Labeling.md)\]
 * _2016.03_ Neural Architectures for Named Entity Recognition \[[arxiv](https://arxiv.org/abs/1603.01360)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)\]
 * _2016.xx_ Neural Architectures for Fine-grained Entity Type Classification \[[aclweb](https://www.aclweb.org/anthology/E17-1119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Fine-grained%20Entity%20Type%20Classification.md)\]
