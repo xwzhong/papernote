@@ -26,7 +26,7 @@
 #### more:
   1. [reddit讨论](https://www.reddit.com/r/MachineLearning/comments/9nfqxz/r_bert_pretraining_of_deep_bidirectional/)
   2. [全面超越人类！Google称霸SQuAD，BERT横扫11大NLP测试](http://www.qianjia.com/html/2018-10/13_307585.html)
-  3. [code](https://github.com/google-research/language/bert)，原作说近两星期公布(20181012)
+  3. [code](https://github.com/google-research/bert)
 
 #### highlight:
   1. We also observed that large data sets (e.g., 100k+ labeled training examples) were far less sensitive to hyperparameter choice than small data sets.
