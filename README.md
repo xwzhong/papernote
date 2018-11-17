@@ -111,17 +111,14 @@
 * _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arxiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
 * _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arxiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
 
-## [reading comprehension](https://github.com/xwzhong/papernote/tree/master/reading%20comprehension)
-* _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arxiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
-
-## [reasoning](https://github.com/xwzhong/papernote/tree/master/reasoning)
-* _2017.06_ A simple neural network module for relational reasoning \[[arxiv](https://arxiv.org/abs/1706.01427)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reasoning/A%20simple%20neural%20network%20module%20for%20relational%20reasoning.md)\]
-
-## [information retrieval](https://github.com/xwzhong/papernote/tree/master/information%20retrieval)
-* _2005.08_ Personalizing Search via Automated Analysis of Interests and Activities \[[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigir05.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/information%20retrieval/Personalizing%20Search%20via%20Automated%20Analysis%20of%20Interests%20and%20Activities.md)\]
-
 ## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
 * _2018.03_ Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss \[[arxiv](https://arxiv.org/pdf/1803.03378.pdf)\] \[note\]
 * _2017.04_ Semi-supervised Multitask Learning for Sequence Labeling \[[arxiv](https://arxiv.org/abs/1704.07156)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Semi-supervised%20Multitask%20Learning%20for%20Sequence%20Labeling.md)\]
 * _2016.03_ Neural Architectures for Named Entity Recognition \[[arxiv](https://arxiv.org/abs/1603.01360)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)\]
 * _2016.xx_ Neural Architectures for Fine-grained Entity Type Classification \[[aclweb](https://www.aclweb.org/anthology/E17-1119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Fine-grained%20Entity%20Type%20Classification.md)\]
+
+## *others*
+* _2017.06_ A simple neural network module for relational reasoning \[[arxiv](https://arxiv.org/abs/1706.01427)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reasoning/A%20simple%20neural%20network%20module%20for%20relational%20reasoning.md)\]
+* _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arxiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
+* _2005.08_ Personalizing Search via Automated Analysis of Interests and Activities \[[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigir05.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/information%20retrieval/Personalizing%20Search%20via%20Automated%20Analysis%20of%20Interests%20and%20Activities.md)\]
+
