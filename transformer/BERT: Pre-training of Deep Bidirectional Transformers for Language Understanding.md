@@ -12,8 +12,8 @@
   3. 实验结果:
   + [GLUE](https://gluebenchmark.com/leaderboard)。11项任务都摘得第一，BERT_large平均score比原最优高6.7;
   + [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer/)。single模型在f1值上超越人类并超过所有其它学者提出的模型；
-  + CoNLL-2003 NER。F1 92.6(原最优)，BERT_large为92.8;
-  + [SWAG](https://leaderboard.allenai.org/swag/submissions/public)。超越人类（expert）85，BERT_large为86.3，比原SOTA高27。
+  + CoNLL-2003 NER。F1 92.6%(原最优)，BERT_large为92.8%;
+  + [SWAG](https://leaderboard.allenai.org/swag/submissions/public)。Dev：BERT_base 81.6%；Test：BERT_large 86.3%，openAI GPT 77.97%；human 88%。
   
   4. paper对比了是否使用bidirectional transformer、Next Sentence Prediction等模块，详见5.1，同时发现（5.2），增大模型大小能明显提高各任务的准确率。
 
@@ -31,3 +31,4 @@
 #### highlight:
   1. We also observed that large data sets (e.g., 100k+ labeled training examples) were far less sensitive to hyperparameter choice than small data sets.
   2. Now you have two representations of each word, one left-to-right and one right-to-left, and you can concatenate them together for your downstream task. But intuitively, it would be much better if we could train a single model that was deeply bidirectional(from reddit讨论).
+  3. [SWAG (Situations With Adversarial Generations)](https://leaderboard.allenai.org/swag/submissions/public) is a dataset for studying grounded commonsense inference. It consists of 113k multiple choice questions about grounded situations: each question comes from a video caption, with four answer choices about what might happen next in the scene. The correct answer is the (real) video caption for the next event in the video; the three incorrect answers are adversarially generated and human verified, so as to fool machines but not humans.
