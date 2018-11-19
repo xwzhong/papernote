@@ -23,3 +23,4 @@
   5. [SciPy Hierarchical Clustering and Dendrogram Tutorial](https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/#Perform-the-Hierarchical-Clustering)
   6. [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
   7. [undersampling和oversampling进行训练和测试时的注意点](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
+  8. [这个围笑代表什么 可能麻省理工的AI比你更懂](http://www.qingpingshan.com/m/view.php?aid=310874)
