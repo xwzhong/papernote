@@ -93,6 +93,7 @@
 * _2014.09_ Recurrent Neural Network Regularization \[[arxiv](https://arxiv.org/pdf/1409.2329.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Recurrent%20Neural%20Network%20Regularization.md)\]
 * _2013.12_ How to Construct Deep Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1312.6026)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.md)\]
 * _2010.xx_ Understanding the difficulty of training deep feedforward neural networks \[[imag](http://www-prima.imag.fr/jlc/Courses/2016/PRML/XavierInitialisation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.md)\]
+* _2008.07_ A Unified Architecture for Natural Language Processing \[[collobert](https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/A%20Unified%20Architecture%20for%20Natural%20Language%20Processing.md)\]
 
 ## [transformer](https://github.com/xwzhong/papernote/tree/master/transformer/)
 * _2018.10_ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding \[[arxiv](https://arxiv.org/abs/1810.04805)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/BERT:%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.md)\]
