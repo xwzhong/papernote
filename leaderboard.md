@@ -5,7 +5,8 @@
 * [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/)
 
 #### Natural Language Inference
-* [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+* [CoQA: A Conversational Question Answering Challenge](https://stanfordnlp.github.io/coqa/)
+* [SQuAD: The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 * [Question Answering in Context](http://quac.ai)
 
 #### QA
