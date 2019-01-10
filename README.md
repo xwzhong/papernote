@@ -48,6 +48,7 @@
 
 
 ### sentence embedding:
+* _2018.09_ Semi-Supervised Sequence Modeling with Cross-View Training \[[arxiv](https://arxiv.org/abs/1809.08370)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Semi-Supervised%20Sequence%20Modeling%20with%20Cross-View%20Training.md)\]
 * _2018.05_ Baseline Needs More Love: On Simple Word-Embedding-Based Models and ... \[[arxiv](https://arxiv.org/abs/1805.09843)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Baseline%20Needs%20More%20Love:%20On%20Simple%20Word-Embedding-Based%20Models%20and%20Associated%20Pooling%20Mechanisms.md)\]
 * _2018.04_ Learning Semantic Textual Similarity from Conversations \[[arxiv](https://arxiv.org/abs/1804.07754)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Learning%20Semantic%20Textual%20Similarity%20from%20Conversations.md)\]
 * _2017.05_ Supervised Learning of Universal Sentence Representations from NLI Data \[[arxiv](https://arxiv.org/abs/1705.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)\]
