@@ -18,7 +18,7 @@
 
 #### comment:
   1. rnn和cnn的整合策略并不是最后一个向量concat，而是输出的概率根据句子长度加权——since the RNN-based architecture had a tendency to obtain better results than its CNN-based counterpart for long sequences, we combined both predictions in such a way that a higher weight was assigned to the RNN predictions for longer sentences.
-  2. 为解决关系分类问题，大部分策略在不同任务中是通用的（eg：实体识别，chatbot，其它类型的分类等），但作者尽量将各项技巧都发挥到最好的效果（多实验验证），需要考虑在后期工作中将这种科学的态度和公共模块抽取出来；
+  2. 为解决关系分类问题，大部分策略在不同任务中是通用的（eg：实体识别，chatbot，其它类型的分类等），但作者尽量将各项技巧都发挥到最好的效果（多实验验证），需要考虑在后期工作中秉持这种科学的态度和并将公共模块抽取出来；
 
 #### question:
   1. A shortcoming of this approach is that the cross-entropy loss usually only constitutes a conveniently decomposable proxy for what the ultimate goal of the optimization is (Eban et al., 2017): in this case, the macro-averaged F1 score. 怎么理解这句话？
