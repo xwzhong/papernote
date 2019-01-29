@@ -21,7 +21,7 @@
   2. 为解决关系分类问题，大部分策略在不同任务中是通用的（eg：实体识别，chatbot，其它类型的分类等），但作者尽量将各项技巧都发挥到最好的效果（多实验验证），需要考虑在后期工作中将这种科学的态度和公共模块抽取出来；
 
 #### question:
-  1. A shortcoming of this approach is that the cross-entropy loss usually only constitutes a conveniently decomposable proxy for what the ultimate goal of the optimization is (Eban et al., 2017): in this case, the macro-averaged F 1 score. 怎么理解这句话？
+  1. A shortcoming of this approach is that the cross-entropy loss usually only constitutes a conveniently decomposable proxy for what the ultimate goal of the optimization is (Eban et al., 2017): in this case, the macro-averaged F1 score. 怎么理解这句话？
 
 #### more:
   1. [文章概述](https://zhuanlan.zhihu.com/p/35845948)
