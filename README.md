@@ -77,6 +77,7 @@
 * _2009.06_ Curriculum Learning \[[collobert](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/curriculum%20learning.md)\]
 
 ## [neural network](https://github.com/xwzhong/papernote/tree/master/neural%20network/)
+* _2019.01_ Is it Time to Swish? Comparing Deep Learning Activation Functions Across NLP tasks \[[arxiv](https://arxiv.org/abs/1901.02671)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Is%20it%20Time%20to%20Swish%3F%20Comparing%20Deep%20Learning%20Activation%20Functions%20Across%20NLP%20tasks.md)\]
 * _2018.03_ Targeted Dropout \[[openreview](https://openreview.net/forum?id=HkghWScuoQ)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Targeted%20Dropout.md)\]
 * _2017.11_ Attentive Language Models \[[aclweb](http://www.aclweb.org/anthology/I17-1045)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Attentive%20Language%20Models.md)\]
 * _2017.04_ Contextual Bidirectional Long Short-Term Memory Recurrent Neural Network Language Models \[[aclweb](http://www.aclweb.org/anthology/E17-1096)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Contextual%20Bidirectional%20Long%20Short-Term%20Memory%20Recurrent%20Neural%20Network%20Language%20Models:%20A%20Generative%20Approach%20to%20Sentiment%20Analysis.md)\]
