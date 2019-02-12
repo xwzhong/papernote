@@ -8,7 +8,7 @@
 	  + a. fasttext虽然是线性模型,即使hidden unit很少,但其参数特别多,主要体现在每个词的embedding上,在训练的时候,词的embedding会跟着优化,这也是模型准确率高的一个重要原因,因为同个词在不同文本之间存在关联,而这种联系正是通过embedding建立;
 	  + b. label之间的表示也彼此影响.因为在层次结构中,如果类1和类2存在公共路径,那么在训练类1文本的时候,必然更新公共路径部分的参数;
 	  + c. [subword策略](https://github.com/xwzhong/papernote/blob/master/embedding/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)。将词切分成subword形式，并且加入了尖括号<>在单词外面，因为这样可以区分前缀和后缀，比如一个单词where如果用3-gram来表示，那么可以表示为：<wh, whe, her, ere, re>;
-	  + d. 文章使用了bigram策略,已有实验在[情感分类任务](https://github.com/xwzhong/papernote/blob/master/classification/Baselines%20and%20Bigrams:%20Simple%2C%20Good%20Sentiment%20and%20Topic%20Classification.md)中表明,该策略能部分描述语序信息.
+	  + d. 文章使用了bigram策略,已有实验在[情感分类任务](https://github.com/xwzhong/papernote/blob/master/classification/Baselines%20and%20Bigrams:%20Simple%2C%20Good%20Sentiment%20and%20Topic%20Classification.md)中表明,该策略能部分描述语序信息,具体引入方式可见[N-gram特征，浅谈FastText文本分类利器解读（2）](https://blog.csdn.net/qq_43019117/article/details/82770124).
 
   2. 能较好解决类别多的分类问题(实验测试了312k个类别的分类问题);
   3. 文章没有实验使用预先训练好的word embeddings,如果用了,效果可能会有提升;
