@@ -27,7 +27,8 @@
   1. [reddit讨论](https://www.reddit.com/r/MachineLearning/comments/9nfqxz/r_bert_pretraining_of_deep_bidirectional/)
   2. [全面超越人类！Google称霸SQuAD，BERT横扫11大NLP测试](http://www.qianjia.com/html/2018-10/13_307585.html)
   3. [code](https://github.com/google-research/bert)
-
+  4. [深入理解BERT Transformer ，不仅仅是注意力机制](https://www.jiqizhixin.com/articles/2019-03-19-13)
+  
 #### highlight:
   1. We also observed that large data sets (e.g., 100k+ labeled training examples) were far less sensitive to hyperparameter choice than small data sets.
   2. Now you have two representations of each word, one left-to-right and one right-to-left, and you can concatenate them together for your downstream task. But intuitively, it would be much better if we could train a single model that was deeply bidirectional(from reddit讨论).
