@@ -61,6 +61,7 @@
 * _2016.02_ Learning Distributed Representations of Sentences from Unlabelled Data \[[arxiv](https://arxiv.org/abs/1602.03483)\] \[note\]
 * _2015.12_ Learning Semantic Similarity for Very Short Texts \[[arxiv](https://arxiv.org/abs/1512.00765)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Learning%20Semantic%20Similarity%20for%20Very%20Short%20Texts.md)\]
 * _2015.11_ Order-Embeddings of Images and Language \[[arxiv](https://arxiv.org/pdf/1511.06361.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Order-Embeddings%20of%20Images%20and%20Language.md)\]
+* _2014.05_ Distributed Representations of Sentences and Documents \[[arxiv](https://arxiv.org/abs/1405.4053)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Distributed%20Representations%20of%20Sentences%20and%20Documents.md)\]
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
 * _2018.08_ Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning \[[arxiv](https://arxiv.org/abs/1808.03578)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Dropout%20is%20a%20special%20case%20of%20the%20stochastic%20delta%20rule:%20faster%20and%20more%20accurate%20deep%20learning.md)\]
