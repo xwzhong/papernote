@@ -28,8 +28,10 @@
   2. [全面超越人类！Google称霸SQuAD，BERT横扫11大NLP测试](http://www.qianjia.com/html/2018-10/13_307585.html)
   3. [code](https://github.com/google-research/bert)
   4. [深入理解BERT Transformer ，不仅仅是注意力机制](https://www.jiqizhixin.com/articles/2019-03-19-13)
+  5. [Bert时代的创新：Bert在NLP各领域的应用进展](https://www.jiqizhixin.com/articles/2019-06-10-7)
   
 #### highlight:
   1. We also observed that large data sets (e.g., 100k+ labeled training examples) were far less sensitive to hyperparameter choice than small data sets.
   2. Now you have two representations of each word, one left-to-right and one right-to-left, and you can concatenate them together for your downstream task. But intuitively, it would be much better if we could train a single model that was deeply bidirectional(from reddit讨论).
   3. [SWAG (Situations With Adversarial Generations)](https://leaderboard.allenai.org/swag/submissions/public) is a dataset for studying grounded commonsense inference. It consists of 113k multiple choice questions about grounded situations: each question comes from a video caption, with four answer choices about what might happen next in the scene. The correct answer is the (real) video caption for the next event in the video; the three incorrect answers are adversarially generated and human verified, so as to fool machines but not humans.
+
