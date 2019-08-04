@@ -13,4 +13,5 @@
 
 
 #### more reading:
-1. [IJCAI 2018 基于主题信息的神经网络作文生成模型](https://www.jiqizhixin.com/articles/2018-06-05)
+1. [Topic-to-Essay Generation with Neural Networks阅读笔记和部分实验](https://blog.csdn.net/firesolider/article/details/94387427)
+2. [IJCAI 2018 基于主题信息的神经网络作文生成模型](https://www.jiqizhixin.com/articles/2018-06-05)
