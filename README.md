@@ -29,6 +29,7 @@
 #### text generation
 * _2018.06_ Topic-to-Essay Generation with Neural Networks \[[paper](http://ir.hit.edu.cn/~xcfeng/xiaocheng%20Feng's%20Homepage_files/final-topic-essay-generation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Topic-to-Essay%20Generation%20with%20Neural%20Networks.md)\]
 * _2016.10_ Chinese Poetry Generation with Planning based Neural Network \[[arxiv](https://arxiv.org/pdf/1610.09889.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Chinese%20Poetry%20Generation%20with%20Planning%20based%20Neural%20Network.md)\]
+* _2016.03_ Incorporating Copying Mechanism in Sequence-to-Sequence Learning \[[arxiv](https://arxiv.org/pdf/1603.06393.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Incorporating%20Copying%20Mechanism%20in%20Sequence-to-Sequence%20Learning.md)\]
 
 ## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
 * _2019.05_ How to Fine-Tune BERT for Text Classification? \[[arxiv](https://arxiv.org/abs/1905.05583)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/How%20to%20Fine-Tune%20BERT%20for%20Text%20Classi%EF%AC%81cation.md)\]
