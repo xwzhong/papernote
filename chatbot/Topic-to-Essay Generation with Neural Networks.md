@@ -6,7 +6,7 @@
 2. 在主题词的之上增加一层attention，类似seq2seq方式生成；
 3. 在2的基础上，给每一步的各个主题词权重进行加权，减小该主题词已生成时再次出现的概率。结构图如下：
 
-![](https://github.com/xwzhong/papernote/blob/master/pic/Topic-to-Essay_Generation_with_Neural_Networks3.png)
+![](https://github.com/xwzhong/papernote/blob/master/pic/Topic-to-Essay_Generation_with_Neural_Networks3.PNG)
 
 #### comment:
 1. 文章主要亮点在于主题词权重在生成过程中衰减这块。

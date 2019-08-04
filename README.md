@@ -27,7 +27,7 @@
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arxiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
 #### text generation
-* _2018.06_ Topic-to-Essay Generation with Neural Networks \[[paper](http://ir.hit.edu.cn/~xcfeng/xiaocheng%20Feng's%20Homepage_files/final-topic-essay-generation.pdf)\] \[[note]()\]
+* _2018.06_ Topic-to-Essay Generation with Neural Networks \[[paper](http://ir.hit.edu.cn/~xcfeng/xiaocheng%20Feng's%20Homepage_files/final-topic-essay-generation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Topic-to-Essay%20Generation%20with%20Neural%20Networks.md)\]
 
 ## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
 * _2019.05_ How to Fine-Tune BERT for Text Classification? \[[arxiv](https://arxiv.org/abs/1905.05583)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/How%20to%20Fine-Tune%20BERT%20for%20Text%20Classi%EF%AC%81cation.md)\]
