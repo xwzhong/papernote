@@ -1,5 +1,5 @@
-## [qa & chatbot](https://github.com/xwzhong/papernote/tree/master/chatbot)
-### retrieval-based ([leaderboard](https://github.com/xwzhong/papernote/blob/master/chatbot/README.md)):
+## [QA & text generation](https://github.com/xwzhong/papernote/tree/master/chatbot)
+### QA: retrieval-based ([leaderboard](https://github.com/xwzhong/papernote/blob/master/chatbot/README.md)):
 * _2018.12_ The Design and Implementation of XiaoIce, an Empathetic Social Chatbot \[[arxiv](https://arxiv.org/abs/1812.08989)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/The%20Design%20and%20Implementation%20of%20XiaoIce%2C%20an%20Empathetic%20Social%20Chatbot.md)\]
 * _2018.06_ Modeling Multi-turn Conversation with Deep Utterance Aggregation \[[arxiv](https://arxiv.org/abs/1806.09102)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Modeling%20Multi-turn%20Conversation%20with%20Deep%20Utterance%20Aggregation.md)\]
 * _2017.11_ A Survey on Dialogue Systems: Recent Advances and New Frontiers \[[arxiv](https://arxiv.org/abs/1711.01731)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/A%20Survey%20on%20Dialogue%20Systems%20Recent%20Advances%20and%20New%20Frontiers.md)\]
@@ -11,7 +11,7 @@
 * _2016.02_ Attentive Pooling Networks \[[arxiv](https://arxiv.org/abs/1602.03609v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Attentive%20Pooling%20Networks.md)\]
 * _2015.11_ LSTM-based Deep Learning Models For Non-factoid Answer Selection \[[arxiv](https://arxiv.org/abs/1511.04108)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/LSTM-based%20Deep%20Learning%20Models%20For%20Non-factoid%20Answer%20Selection.md)\]
 
-### generation-based:
+### chatbot: generation-based:
 * _2018.04_ Chat More: Deepening and Widening the Chatting Topic via A Deep Model \[[paper](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Chat%20More%20Deepening%20and%20Widening%20the%20Chatting%20Topic%20via%20A%20Deep%20Model.md)\]
 * _2018.01_ From Eliza to XiaoIce: Challenges and Opportunities with Social Chatbots \[[arxiv](https://arxiv.org/abs/1801.01957)\] \[[translation](https://www.jiqizhixin.com/articles/2018-01-16-6)\]
 * _2017.11_ Neural Response Generation with Dynamic Vocabularies \[[arxiv](https://arxiv.org/abs/1711.11191)\] [note]
@@ -25,6 +25,9 @@
 * _2016.06_ Topic Aware Neural Response Generation \[[arxiv](https://arxiv.org/abs/1606.08340)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Topic%20Aware%20Neural%20Response%20Generation.md)\]
 * _2016.06_ Deep Reinforcement Learning for Dialogue Generation \[[arxiv](https://arxiv.org/abs/1606.01541)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Deep%20Reinforcement%20Learning%20for%20Dialogue%20Generation.md)\]
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arxiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
+
+#### text generation
+* _2018.06_ Topic-to-Essay Generation with Neural Networks \[[paper](http://ir.hit.edu.cn/~xcfeng/xiaocheng%20Feng's%20Homepage_files/final-topic-essay-generation.pdf)\] \[[note]()\]
 
 ## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
 * _2019.05_ How to Fine-Tune BERT for Text Classification? \[[arxiv](https://arxiv.org/abs/1905.05583)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/How%20to%20Fine-Tune%20BERT%20for%20Text%20Classi%EF%AC%81cation.md)\]
