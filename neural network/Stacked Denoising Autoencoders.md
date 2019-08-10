@@ -1,11 +1,11 @@
 #### note:
 &nbsp;&nbsp;&nbsp;&nbsp;paper提出“栈式降噪自编码”算法提取高级特征，演变过程如下：
-  + 1. 自编码算法。神经网络只含一个隐层（一般hidden size比输入维度小），输入和输出相等，loss即为输入和输出的差异，训练好隐层即对应高级特征，然后再结合具体的场景微调模型。结构图如下：
+  + a. 自编码算法。神经网络只含一个隐层（一般hidden size比输入维度小），输入和输出相等，loss即为输入和输出的差异，训练好隐层即对应高级特征，然后再结合具体的场景微调模型。结构图如下：
   ![](https://github.com/xwzhong/papernote/blob/master/pic/Stacked_Denoising_Autoencoders_autoencoders.PNG)
-  + 2. 降噪自编码算法。在自编码算法的基础上，输入中的元素以一定的概率置为0（输出不变），使得模型在输入数据corrupt（损坏）的情况下仍能复原，提高抗噪声能力，同时在一定程度上减轻了训练数据与测试数据的代沟。
+  + b. 降噪自编码算法。在自编码算法的基础上，输入中的元素以一定的概率置为0（输出不变），使得模型在输入数据corrupt（损坏）的情况下仍能复原，提高抗噪声能力，同时在一定程度上减轻了训练数据与测试数据的代沟。
   ![](https://github.com/xwzhong/papernote/blob/master/pic/Stacked_Denoising_Autoencoders_denoising_autoencoders.PNG)
-  + 3. 栈式降噪自编码。常规的自编码算法只含有一个隐层，通过栈式叠加，当训练好第k层隐层的参数后，固定1到k层的隐层参数，训练第k+1层的参数，最后再根据具体任务微调，结构图如下：
-  ![](https://github.com/xwzhong/papernote/blob/master/pic/Stacked_Denoising_Autoencoders_stacked_denoising_autoencoders.PNG)
+  + c. 栈式降噪自编码。常规的自编码算法只含有一个隐层，通过栈式叠加，当训练好第k层隐层的参数后，固定1到k层的隐层参数，训练第k+1层的参数，最后再根据具体任务微调，结构图如下：
+  ![](https://github.com/xwzhong/papernote/blob/master/pic/Stacked_Denoising_Autoencoders_stacked_denoising_autoencoders.png)
 
 
 #### comment:
