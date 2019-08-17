@@ -1,3 +1,6 @@
+#### Sentiment analysis
+* [IMDb\SST\Yelp\SemEval\Sentihood\SemEval-2014 Task 4](http://nlpprogress.com/english/sentiment_analysis.html)
+
 #### text similarity
 * [STSbenchmark](http://ixa2.si.ehu.es/stswiki/index.php/STSbenchmark)
 
