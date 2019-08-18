@@ -1,7 +1,7 @@
 #### note:
-&nbsp;&nbsp;&nbsp;&nbsp;paper针对bert指出，在预训练数据足够多、训练策略设置得好的情况下，模型效果也能极大的提高：
-  1. 预训练数据量：BERT-large 13G -> RoBERTa 160G
-  2. 训练策略：
+&nbsp;&nbsp;&nbsp;&nbsp;paper针对bert指出，在预训练数据足够多、策略设置得好的情况下，模型效果也能极大的提高：
+  1. 数据量：BERT-large 13G -> RoBERTa 160G
+  2. 策略：
      + 增加预训练步数，batch size尽可能地大（考虑到显存限制，可使用"梯度累积后再更新"的策略）
      + 剔除next sentence prediction任务
      + 尽可能用长文本训练模型（在训练的前90%step，sample中文本长度为512）
