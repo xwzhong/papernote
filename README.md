@@ -111,6 +111,7 @@
 * _2008.07_ A Unified Architecture for Natural Language Processing \[[collobert](https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/A%20Unified%20Architecture%20for%20Natural%20Language%20Processing.md)\]
 
 ## [transformer](https://github.com/xwzhong/papernote/tree/master/transformer/)
+* _2019.07_ RoBERTa: A Robustly Optimized BERT Pretraining Approach \[[arxiv](https://arxiv.org/abs/1907.11692)\] \[[note]()\]
 * _2018.10_ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding \[[arxiv](https://arxiv.org/abs/1810.04805)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.md)\]
 * _2018.06_ Improving Language Understanding by Generative Pre-Training \[[amazonaws](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Improving%20Language%20Understanding%20by%20Generative%20Pre-Training.md)\]
 * _2018.03_ Universal Sentence Encoder \[[arxiv](https://arxiv.org/abs/1803.11175)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Universal%20Sentence%20Encoder.md)\]
