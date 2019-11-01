@@ -129,6 +129,9 @@
 * _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arxiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
 * _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arxiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
 
+## [multi task](https://github.com/xwzhong/papernote/tree/master/multi-task)
+* _2019.01_ Multi-TaskDeepNeuralNetworksforNaturalLanguageUnderstanding \[[arxiv](https://arxiv.org/abs/1901.11504)\] \[[note](https://github.com/xwzhong/papernote/blob/master/multi-task/Multi-Task%20Deep%20Neural%20Networks%20for%20Natural%20Language%20Understanding.md)\]
+
 ## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
 * _2018.03_ Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss \[[arxiv](https://arxiv.org/pdf/1803.03378.pdf)\] \[note\]
 * _2017.04_ Semi-supervised Multitask Learning for Sequence Labeling \[[arxiv](https://arxiv.org/abs/1704.07156)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Semi-supervised%20Multitask%20Learning%20for%20Sequence%20Labeling.md)\]
