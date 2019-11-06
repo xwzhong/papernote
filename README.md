@@ -131,6 +131,7 @@
 
 ## [multi task](https://github.com/xwzhong/papernote/tree/master/multi-task)
 * _2019.01_ Multi-TaskDeepNeuralNetworksforNaturalLanguageUnderstanding \[[arxiv](https://arxiv.org/abs/1901.11504)\] \[[note](https://github.com/xwzhong/papernote/blob/master/multi-task/Multi-Task%20Deep%20Neural%20Networks%20for%20Natural%20Language%20Understanding.md)\]
+* _2016.12_ Overcoming catastrophic forgetting in neural networks \[[arxiv](https://arxiv.org/abs/1612.00796)\] \[[note](https://github.com/xwzhong/papernote/blob/master/multi-task/Overcoming%20catastrophic%20forgetting%20in%20neural%20networks.md)\]
 
 ## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
 * _2018.03_ Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss \[[arxiv](https://arxiv.org/pdf/1803.03378.pdf)\] \[note\]
