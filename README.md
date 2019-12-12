@@ -112,6 +112,7 @@
 
 ## [transformer](https://github.com/xwzhong/papernote/tree/master/transformer/)
 * _2019.07_ RoBERTa: A Robustly Optimized BERT Pretraining Approach \[[arxiv](https://arxiv.org/abs/1907.11692)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/RoBERTa_A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach.md)\]
+* _2019.04_ ERNIE: Enhanced Representation through Knowledge Integration \[[arxiv](https://arxiv.org/pdf/1904.09223.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/ERNIE%20Enhanced%20Representation%20through%20Knowledge%20Integration.md)\]
 * _2018.10_ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding \[[arxiv](https://arxiv.org/abs/1810.04805)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.md)\]
 * _2018.06_ Improving Language Understanding by Generative Pre-Training \[[amazonaws](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Improving%20Language%20Understanding%20by%20Generative%20Pre-Training.md)\]
 * _2018.03_ Universal Sentence Encoder \[[arxiv](https://arxiv.org/abs/1803.11175)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Universal%20Sentence%20Encoder.md)\]
