@@ -111,6 +111,7 @@
 * _2008.07_ A Unified Architecture for Natural Language Processing \[[collobert](https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/A%20Unified%20Architecture%20for%20Natural%20Language%20Processing.md)\]
 
 ## [transformer](https://github.com/xwzhong/papernote/tree/master/transformer/)
+* _2019.09_ ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS \[[arxiv](https://arxiv.org/pdf/1909.11942.pdf)\] \[[note]()\]
 * _2019.07_ RoBERTa: A Robustly Optimized BERT Pretraining Approach \[[arxiv](https://arxiv.org/abs/1907.11692)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/RoBERTa_A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach.md)\]
 * _2019.04_ ERNIE: Enhanced Representation through Knowledge Integration \[[arxiv](https://arxiv.org/pdf/1904.09223.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/ERNIE%20Enhanced%20Representation%20through%20Knowledge%20Integration.md)\]
 * _2018.10_ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding \[[arxiv](https://arxiv.org/abs/1810.04805)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.md)\]
