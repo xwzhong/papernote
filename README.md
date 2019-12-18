@@ -132,7 +132,7 @@
 * _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arxiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
 
 ## [multi task](https://github.com/xwzhong/papernote/tree/master/multi-task)
-* _2019.01_ Multi-TaskDeepNeuralNetworksforNaturalLanguageUnderstanding \[[arxiv](https://arxiv.org/abs/1901.11504)\] \[[note](https://github.com/xwzhong/papernote/blob/master/multi-task/Multi-Task%20Deep%20Neural%20Networks%20for%20Natural%20Language%20Understanding.md)\]
+* _2019.01_ Multi-Task Deep Neural Networks for Natural Language Understanding \[[arxiv](https://arxiv.org/abs/1901.11504)\] \[[note](https://github.com/xwzhong/papernote/blob/master/multi-task/Multi-Task%20Deep%20Neural%20Networks%20for%20Natural%20Language%20Understanding.md)\]
 * _2016.12_ Overcoming catastrophic forgetting in neural networks \[[arxiv](https://arxiv.org/abs/1612.00796)\] \[[note](https://github.com/xwzhong/papernote/blob/master/multi-task/Overcoming%20catastrophic%20forgetting%20in%20neural%20networks.md)\]
 
 ## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
