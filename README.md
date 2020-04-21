@@ -141,6 +141,9 @@
 * _2016.03_ Neural Architectures for Named Entity Recognition \[[arxiv](https://arxiv.org/abs/1603.01360)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)\]
 * _2016.xx_ Neural Architectures for Fine-grained Entity Type Classification \[[aclweb](https://www.aclweb.org/anthology/E17-1119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Fine-grained%20Entity%20Type%20Classification.md)\]
 
+## [Contrastive self-supervised learning](https://github.com/xwzhong/papernote/tree/master/Contrastive%20self-supervised%20learning)
+* _2020.02_ A Simple Framework for Contrastive Learning of Visual Representations \[[arxiv](https://arxiv.org/pdf/2002.05709.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/Contrastive%20self-supervised%20learning/A%20Simple%20Framework%20for%20Contrastive%20Learning%20of%20Visual%20Representations.md)\]
+
 ## *others*
 * _2017.06_ A simple neural network module for relational reasoning \[[arxiv](https://arxiv.org/abs/1706.01427)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reasoning/A%20simple%20neural%20network%20module%20for%20relational%20reasoning.md)\]
 * _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arxiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
