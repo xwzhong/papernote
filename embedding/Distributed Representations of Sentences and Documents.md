@@ -1,7 +1,8 @@
 #### note:
 　　基于word2vec理论，文章提出句子/篇章编码的方法，分两种模型：
 
-1. paragraph vector-a distributed memory model。模型分三层，输入层、隐含层和输出层
+1. paragraph vector-a distributed memory model。模型分三层，输入层、隐含层和输出层，结构图如下：
+![](https://github.com/xwzhong/papernote/blob/master/pic/Distributed%20Representations%20of%20Sentences%20and%20Documents.png)
 
   + 1.1. 训练阶段：
     + a. 输入层：为paragraph id对应的向量、context前k-1个词的词向量（不像cbow模型，由上下文的词预测中心词，这里是用前k-1个词预测第k个词，同时注意，此处的context由paragraph按窗口大小k切分得来）
