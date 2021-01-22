@@ -69,6 +69,9 @@
 * _2015.11_ Order-Embeddings of Images and Language \[[arxiv](https://arxiv.org/pdf/1511.06361.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Order-Embeddings%20of%20Images%20and%20Language.md)\]
 * _2014.05_ Distributed Representations of Sentences and Documents \[[arxiv](https://arxiv.org/abs/1405.4053)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Distributed%20Representations%20of%20Sentences%20and%20Documents.md)\]
 
+### user embedding:
+* _2017.05_ Quantifying Mental Health from Social Media with Neural User Embeddings \[[arxiv](https://arxiv.org/abs/1705.00335)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Quantifying%20Mental%20Health%20from%20Social%20Media%20with%20Neural%20User%20Embeddings.md)\]
+
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
 * _2018.08_ Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning \[[arxiv](https://arxiv.org/abs/1808.03578)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Dropout%20is%20a%20special%20case%20of%20the%20stochastic%20delta%20rule%20faster%20and%20more%20accurate%20deep%20learning.md)\]
 * _2018.05_ How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift) \[[arxiv](https://arxiv.org/abs/1805.11604)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20Does%20Batch%20Normalization%20Help%20Optimization%20(No,%20It%20Is%20Not%20About%20Internal%20Covariate%20Shift)%20.md)\]
