@@ -70,6 +70,7 @@
 * _2014.05_ Distributed Representations of Sentences and Documents \[[arxiv](https://arxiv.org/abs/1405.4053)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Distributed%20Representations%20of%20Sentences%20and%20Documents.md)\]
 
 ### user embedding:
+* _2018.07_ Deep Content-User Embedding Model for Music Recommendation \[[arxiv](https://arxiv.org/abs/1807.06786)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Deep%20Content-User%20Embedding%20Model%20for%20Music%20Recommendation.md)\]
 * _2017.05_ Quantifying Mental Health from Social Media with Neural User Embeddings \[[arxiv](https://arxiv.org/abs/1705.00335)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Quantifying%20Mental%20Health%20from%20Social%20Media%20with%20Neural%20User%20Embeddings.md)\]
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
