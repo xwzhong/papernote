@@ -1,3 +1,8 @@
+## [recommender system](https://github.com/xwzhong/papernote/tree/master/recommender%20system)
+* _2018.07_ Deep Content-User Embedding Model for Music Recommendation \[[arxiv](https://arxiv.org/abs/1807.06786)\] \[[note](https://github.com/xwzhong/papernote/blob/master/recommender%20system/Deep%20Content-User%20Embedding%20Model%20for%20Music%20Recommendation.md)\]
+* _2016.09_ Deep Neural Networks for YouTube Recommendations \[[research](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/recommender%20system/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.md)\]
+* _2016.06_ Wide & Deep Learning for Recommender Systems \[[arxiv](https://arxiv.org/pdf/1606.07792.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/recommender%20system/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.md)\]
+
 ## [QA & text generation](https://github.com/xwzhong/papernote/tree/master/chatbot)
 ### QA: retrieval-based ([leaderboard](https://github.com/xwzhong/papernote/blob/master/chatbot/README.md)):
 * _2018.12_ The Design and Implementation of XiaoIce, an Empathetic Social Chatbot \[[arxiv](https://arxiv.org/abs/1812.08989)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/The%20Design%20and%20Implementation%20of%20XiaoIce%2C%20an%20Empathetic%20Social%20Chatbot.md)\]
@@ -69,10 +74,8 @@
 * _2015.11_ Order-Embeddings of Images and Language \[[arxiv](https://arxiv.org/pdf/1511.06361.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Order-Embeddings%20of%20Images%20and%20Language.md)\]
 * _2014.05_ Distributed Representations of Sentences and Documents \[[arxiv](https://arxiv.org/abs/1405.4053)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Distributed%20Representations%20of%20Sentences%20and%20Documents.md)\]
 
-### user embedding/recommendation system:
-* _2018.07_ Deep Content-User Embedding Model for Music Recommendation \[[arxiv](https://arxiv.org/abs/1807.06786)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Deep%20Content-User%20Embedding%20Model%20for%20Music%20Recommendation.md)\]
+### user embedding:
 * _2017.05_ Quantifying Mental Health from Social Media with Neural User Embeddings \[[arxiv](https://arxiv.org/abs/1705.00335)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Quantifying%20Mental%20Health%20from%20Social%20Media%20with%20Neural%20User%20Embeddings.md)\]
-* _2016.06_ Wide & Deep Learning for Recommender Systems \[[arxiv](https://arxiv.org/pdf/1606.07792.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.md)\]
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
 * _2018.08_ Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning \[[arxiv](https://arxiv.org/abs/1808.03578)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Dropout%20is%20a%20special%20case%20of%20the%20stochastic%20delta%20rule%20faster%20and%20more%20accurate%20deep%20learning.md)\]
