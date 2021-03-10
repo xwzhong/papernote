@@ -3,6 +3,7 @@
 * _2016.09_ Deep Neural Networks for YouTube Recommendations \[[research](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/recommender%20system/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.md)\]
 * _2016.06_ Wide & Deep Learning for Recommender Systems \[[arxiv](https://arxiv.org/pdf/1606.07792.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/recommender%20system/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.md)\]
 * _2010.12_ Factorization Machines \[[ieee](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5694074)\] \[[note](https://github.com/xwzhong/papernote/blob/master/recommender%20system/Factorization%20Machines.md)\]
+* _1998.08_ Implicit Feedback for Recommender Systems \[[aaai](https://www.aaai.org/Papers/Workshops/1998/WS-98-08/WS98-08-021.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/recommender%20system/Implicit%20Feedback%20for%20Recommender%20Systems.md)\]
 
 ## [QA & text generation](https://github.com/xwzhong/papernote/tree/master/chatbot)
 ### QA: retrieval-based ([leaderboard](https://github.com/xwzhong/papernote/blob/master/chatbot/README.md)):
