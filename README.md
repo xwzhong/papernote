@@ -149,6 +149,7 @@
 * _2016.12_ Overcoming catastrophic forgetting in neural networks \[[arxiv](https://arxiv.org/abs/1612.00796)\] \[[note](https://github.com/xwzhong/papernote/blob/master/multi-task/Overcoming%20catastrophic%20forgetting%20in%20neural%20networks.md)\]
 
 ## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
+* _2018.05_ Chinese NER Using Lattice LSTM \[[arxiv](https://arxiv.org/abs/1805.02023)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Chinese%20NER%20Using%20Lattice%20LSTM.md)\]
 * _2018.03_ Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss \[[arxiv](https://arxiv.org/pdf/1803.03378.pdf)\] \[note\]
 * _2017.04_ Semi-supervised Multitask Learning for Sequence Labeling \[[arxiv](https://arxiv.org/abs/1704.07156)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Semi-supervised%20Multitask%20Learning%20for%20Sequence%20Labeling.md)\]
 * _2016.03_ Neural Architectures for Named Entity Recognition \[[arxiv](https://arxiv.org/abs/1603.01360)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)\]
